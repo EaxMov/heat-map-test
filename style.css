@@ -1,3 +1,5 @@
 .app-click-render-ghost-rect {
   position: absolute;
+  background-color: rgba(0, 0, 0, 0.123);
+  border: 1px solid red;
 }

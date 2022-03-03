@@ -7,23 +7,25 @@
     <title>Document</title>
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script src="./appClick.js"></script>
+    <script src="./mockdata.js"></script>
   </head>
   <body>
     <div id="screen" style="height: 560px; position: relative; box-sizing: border-box"></div>
     <script>
       const appClick = new AppClick(document.getElementById('screen'))
       // setInterval(() => {
-      axios
-        .post('http://127.0.0.1:8000/api/heat_map/screenshot', {
-          feature_code: 'safe5ea3571yeJ9l8lCp',
-          image_hash: '4250FC8D31297FCB4EA043D0429E5625'
-        })
-        .then((res) => {
-          const data = res.data
-          if (!data.need_refresh) return
-          appClick.init(data)
-        })
+      // axios
+      //   .post('http://127.0.0.1:8000/api/heat_map/screenshot', {
+      //     feature_code: 'safe5ea3571yeJ9l8lCp',
+      //     image_hash: '4250FC8D31297FCB4EA043D0429E5625'
+      //   })
+      //   .then((res) => {
+      //     const data = res.data
+      //     if (!data.need_refresh) return
+      //     appClick.init(data)
+      //   })
       // }, 1000)
+       appClick.init(mockdata)
     </script>
   </body>
 </html>
