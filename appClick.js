@@ -53,8 +53,8 @@ class AppClick {
       const div = document.createElement('div')
       div.style.width = `${item.width * this.scale}px`
       div.style.height = `${item.height * this.scale}px`
-      div.style.top = `${item.top * this.scale}px`
-      div.style.left = `${item.left * this.scale}px`
+      div.style.top = `${item._top * this.scale}px`
+      div.style.left = `${item._left * this.scale}px`
       div.setAttribute('uuid', item.hashCode)
       div.setAttribute('class', 'app-click-render-ghost-rect')
       this.vnode[item.hashCode] = div
@@ -78,6 +78,7 @@ class AppClick {
   }
   // 所有hashCode对照表
   _getHashCodeRelative(list) {
+    this.objectsHash = []
     const needCreadNode = []
     list.forEach((item) => {
       item.subviews.forEach((hash) => {
@@ -85,6 +86,8 @@ class AppClick {
       })
     })
     list.forEach((item) => {
+      item._left = item.left
+      item._top = item.top
       // 过滤本身且父元素不是点击的标签，并重新根据关系计算元素宽高，定位
       if (item.importantForAccessibility && item.clickable) {
         const root = this._filterRect(item.hashCode, item)
@@ -104,8 +107,8 @@ class AppClick {
   _filterRect(hashCode, rect) {
     const parent = this.objectsHash[hashCode]
     if (parent) {
-      rect.left += parent.left - parent.scrollX
-      rect.top += parent.top - parent.scrollY
+      rect._left += parent.left - parent.scrollX
+      rect._top += parent.top - parent.scrollY
       return this._filterRect(parent.hashCode, rect)
     }
     rect.height = rect.height - rect.scrollY

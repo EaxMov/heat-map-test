@@ -1,6 +1,6 @@
 const mockdata = {
     "type": "snapshot_response",
-    "feature_code": "safe5ea357D1ewur5Bi4",
+    "feature_code": "safe5ea357LLJ6c7pHIU",
     "app_version": "2.10.1",
     "lib_version": "5.1.0",
     "os": "Android",
@@ -11,10 +11,10 @@ const mockdata = {
                 "activity": "com.tcl.tsales_plus.main.MainActivity",
                 "scale": 0.33333334,
                 "serialized_objects": {
-                    "rootObject": 145836151,
+                    "rootObject": 64911437,
                     "objects": [
                         {
-                            "hashCode": 145836151,
+                            "hashCode": 64911437,
                             "id": -1,
                             "index": -1,
                             "element_level": 0,
@@ -40,12 +40,12 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": false,
                             "subviews": [
-                                265301569,
-                                16887782
+                                99254188,
+                                46593141
                             ]
                         },
                         {
-                            "hashCode": 265301569,
+                            "hashCode": 99254188,
                             "id": -1,
                             "index": 0,
                             "element_level": 1,
@@ -72,12 +72,12 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                53750055,
-                                216635348
+                                203099107,
+                                162884064
                             ]
                         },
                         {
-                            "hashCode": 216635348,
+                            "hashCode": 162884064,
                             "id": -1,
                             "index": 0,
                             "element_level": 2,
@@ -104,11 +104,11 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                229666173
+                                55417655
                             ]
                         },
                         {
-                            "hashCode": 229666173,
+                            "hashCode": 55417655,
                             "id": 2131361872,
                             "index": 0,
                             "element_level": 3,
@@ -136,12 +136,12 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                19457138,
-                                103821507
+                                165367578,
+                                211208779
                             ]
                         },
                         {
-                            "hashCode": 103821507,
+                            "hashCode": 211208779,
                             "id": 16908290,
                             "index": 0,
                             "element_level": 4,
@@ -169,11 +169,11 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                187850048
+                                22606425
                             ]
                         },
                         {
-                            "hashCode": 187850048,
+                            "hashCode": 22606425,
                             "id": 2131362201,
                             "index": 0,
                             "element_level": 5,
@@ -200,12 +200,12 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                169661886,
-                                106632735
+                                100522085,
+                                136452410
                             ]
                         },
                         {
-                            "hashCode": 169661886,
+                            "hashCode": 100522085,
                             "id": 2131362943,
                             "index": 0,
                             "element_level": 6,
@@ -233,14 +233,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                136630069,
-                                174875726,
-                                40811308,
-                                128953107
+                                224794742,
+                                3841385,
+                                104879138,
+                                120113981,
+                                34993893
                             ]
                         },
                         {
-                            "hashCode": 114069450,
+                            "hashCode": 23933874,
                             "id": -1,
                             "index": 0,
                             "element_level": 7,
@@ -266,12 +267,12 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                777878,
-                                14920215
+                                254186583,
+                                115989316
                             ]
                         },
                         {
-                            "hashCode": 777878,
+                            "hashCode": 254186583,
                             "id": 2131361987,
                             "index": 0,
                             "element_level": 8,
@@ -299,7 +300,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 14920215,
+                            "hashCode": 115989316,
                             "id": 2131361940,
                             "index": 1,
                             "element_level": 9,
@@ -325,7 +326,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 153417019,
+                            "hashCode": 250310403,
                             "id": 2131361986,
                             "index": 0,
                             "element_level": 10,
@@ -353,7 +354,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 236360792,
+                            "hashCode": 90398336,
                             "id": 2131363371,
                             "index": 0,
                             "element_level": 11,
@@ -380,13 +381,13 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                91148467,
-                                20420208,
-                                253844969
+                                229027422,
+                                63771199,
+                                93988620
                             ]
                         },
                         {
-                            "hashCode": 91148467,
+                            "hashCode": 229027422,
                             "id": -1,
                             "index": 0,
                             "element_level": 12,
@@ -413,12 +414,12 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                117975662,
-                                175883535
+                                103832845,
+                                67093698
                             ]
                         },
                         {
-                            "hashCode": 89631132,
+                            "hashCode": 182746640,
                             "id": -1,
                             "index": 0,
                             "element_level": 13,
@@ -444,11 +445,11 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                111734693
+                                38203175
                             ]
                         },
                         {
-                            "hashCode": 111734693,
+                            "hashCode": 38203175,
                             "id": -1,
                             "index": 0,
                             "element_level": 14,
@@ -474,14 +475,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                227573626,
-                                263824171,
-                                246664,
-                                173924641
+                                5999424,
+                                162313150,
+                                4234271,
+                                168696684
                             ]
                         },
                         {
-                            "hashCode": 227573626,
+                            "hashCode": 5999424,
                             "id": -1,
                             "index": 0,
                             "element_level": 15,
@@ -510,7 +511,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 263824171,
+                            "hashCode": 162313150,
                             "id": -1,
                             "index": 1,
                             "element_level": 16,
@@ -539,7 +540,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 246664,
+                            "hashCode": 4234271,
                             "id": -1,
                             "index": 2,
                             "element_level": 17,
@@ -568,7 +569,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 173924641,
+                            "hashCode": 168696684,
                             "id": -1,
                             "index": 3,
                             "element_level": 18,
@@ -597,7 +598,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 175883535,
+                            "hashCode": 67093698,
                             "id": 2131362959,
                             "index": 0,
                             "element_level": 19,
@@ -625,11 +626,11 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": false,
                             "subviews": [
-                                238109749
+                                229212081
                             ]
                         },
                         {
-                            "hashCode": 238109749,
+                            "hashCode": 229212081,
                             "id": 2131361927,
                             "index": 0,
                             "element_level": 20,
@@ -656,20 +657,20 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                62939338,
-                                212005435,
-                                198266200,
-                                129953457,
-                                68373208,
-                                116113302,
-                                180647703,
-                                79292164,
-                                221861927,
-                                144884973
+                                199224261,
+                                19228141,
+                                126589210,
+                                53627979,
+                                130596717,
+                                212567592,
+                                47742785,
+                                71879714,
+                                132710353,
+                                171584742
                             ]
                         },
                         {
-                            "hashCode": 62939338,
+                            "hashCode": 199224261,
                             "id": -1,
                             "index": 0,
                             "element_level": 21,
@@ -695,12 +696,12 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                65041851,
-                                27016994
+                                36256644,
+                                92108467
                             ]
                         },
                         {
-                            "hashCode": 65041851,
+                            "hashCode": 36256644,
                             "id": 2131363570,
                             "index": 0,
                             "element_level": 22,
@@ -727,12 +728,12 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                17788339,
-                                40922992
+                                72835623,
+                                172416212
                             ]
                         },
                         {
-                            "hashCode": 17788339,
+                            "hashCode": 72835623,
                             "id": 2131364211,
                             "index": 0,
                             "element_level": 23,
@@ -782,12 +783,12 @@ const mockdata = {
                                 0
                             ],
                             "subviews": [
-                                199437166
+                                226834332
                             ]
                         },
                         {
-                            "hashCode": 199437166,
-                            "id": 1,
+                            "hashCode": 226834332,
+                            "id": 9,
                             "index": 0,
                             "element_level": 24,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/android.widget.FrameLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.FrameLayout[0]/com.zhpan.bannerview.BannerViewPager[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]",
@@ -813,11 +814,11 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                121414821
+                                87812867
                             ]
                         },
                         {
-                            "hashCode": 121414821,
+                            "hashCode": 87812867,
                             "id": -1,
                             "index": 0,
                             "element_level": 25,
@@ -825,7 +826,7 @@ const mockdata = {
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
                             "element_path": "/android.widget.FrameLayout[-]",
-                            "element_position": "0",
+                            "element_position": "329",
                             "sa_id_name": null,
                             "top": 0,
                             "left": 46,
@@ -844,12 +845,12 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                194678906,
-                                19980331
+                                78647710,
+                                42587263
                             ]
                         },
                         {
-                            "hashCode": 194678906,
+                            "hashCode": 78647710,
                             "id": -1,
                             "index": 0,
                             "element_level": 26,
@@ -857,7 +858,7 @@ const mockdata = {
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
                             "element_path": "/com.tcl.tsales_plus.register.commit.Util.CustomRoundAngleImageView[0]",
-                            "element_position": "0",
+                            "element_position": "329",
                             "sa_id_name": null,
                             "top": 0,
                             "left": 0,
@@ -879,7 +880,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 19980331,
+                            "hashCode": 42587263,
                             "id": 2131362614,
                             "index": 1,
                             "element_level": 27,
@@ -887,7 +888,7 @@ const mockdata = {
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
                             "element_path": "/com.tcl.tsales_plus.register.commit.Util.CustomRoundAngleImageView[1]",
-                            "element_position": "0",
+                            "element_position": "329",
                             "sa_id_name": null,
                             "top": 0,
                             "left": 0,
@@ -909,7 +910,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 40922992,
+                            "hashCode": 172416212,
                             "id": 2131362128,
                             "index": 0,
                             "element_level": 28,
@@ -959,11 +960,11 @@ const mockdata = {
                                 0
                             ],
                             "subviews": [
-                                150464033
+                                142356872
                             ]
                         },
                         {
-                            "hashCode": 150464033,
+                            "hashCode": 142356872,
                             "id": -1,
                             "index": 0,
                             "element_level": 29,
@@ -973,8 +974,8 @@ const mockdata = {
                             "element_path": "/com.zhpan.indicator.IndicatorView[0]",
                             "sa_id_name": null,
                             "top": 30,
-                            "left": 522,
-                            "width": 36,
+                            "left": 483,
+                            "width": 114,
                             "height": 16,
                             "scrollX": 0,
                             "scrollY": 0,
@@ -1015,7 +1016,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 198266200,
+                            "hashCode": 126589210,
                             "id": 2131361923,
                             "index": 0,
                             "element_level": 30,
@@ -1043,12 +1044,12 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                157751604,
-                                214680413
+                                124571261,
+                                32256370
                             ]
                         },
                         {
-                            "hashCode": 157751604,
+                            "hashCode": 124571261,
                             "id": 2131364209,
                             "index": 0,
                             "element_level": 31,
@@ -1075,12 +1076,12 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": false,
                             "subviews": [
-                                255243474
+                                10518994
                             ]
                         },
                         {
-                            "hashCode": 255243474,
-                            "id": 2,
+                            "hashCode": 10518994,
+                            "id": 10,
                             "index": 0,
                             "element_level": 32,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/android.widget.FrameLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.ruffian.library.widget.RFrameLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]",
@@ -1107,13 +1108,13 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                30353827,
-                                183932064
+                                53377322,
+                                70292251
                             ]
                         },
                         {
-                            "hashCode": 30353827,
-                            "id": 4,
+                            "hashCode": 53377322,
+                            "id": 12,
                             "index": 0,
                             "element_level": 33,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/android.widget.FrameLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.ruffian.library.widget.RFrameLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]",
@@ -1140,11 +1141,11 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": true,
                             "subviews": [
-                                407641
+                                149880047
                             ]
                         },
                         {
-                            "hashCode": 407641,
+                            "hashCode": 149880047,
                             "id": -1,
                             "index": 0,
                             "element_level": 34,
@@ -1172,11 +1173,11 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                94850078
+                                175079642
                             ]
                         },
                         {
-                            "hashCode": 94850078,
+                            "hashCode": 175079642,
                             "id": 2131363078,
                             "index": 0,
                             "element_level": 35,
@@ -1204,20 +1205,20 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": false,
                             "subviews": [
-                                245415167,
-                                4217548,
-                                215548181,
-                                33033258,
-                                214837787,
-                                8279992,
-                                81107345,
-                                182632694,
-                                228281591,
-                                178075492
+                                223901963,
+                                219091944,
+                                82598401,
+                                164941990,
+                                227777255,
+                                112559764,
+                                79926589,
+                                149770546,
+                                175439491,
+                                95320064
                             ]
                         },
                         {
-                            "hashCode": 245415167,
+                            "hashCode": 223901963,
                             "id": 2131361951,
                             "index": 0,
                             "element_level": 36,
@@ -1246,12 +1247,12 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                116520578,
-                                145605011
+                                64571449,
+                                211504766
                             ]
                         },
                         {
-                            "hashCode": 116520578,
+                            "hashCode": 64571449,
                             "id": 2131362632,
                             "index": 0,
                             "element_level": 37,
@@ -1280,7 +1281,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 145605011,
+                            "hashCode": 211504766,
                             "id": 2131363883,
                             "index": 0,
                             "element_level": 38,
@@ -1311,7 +1312,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 4217548,
+                            "hashCode": 219091944,
                             "id": 2131361951,
                             "index": 1,
                             "element_level": 39,
@@ -1340,12 +1341,12 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                229139920,
-                                244902345
+                                60413066,
+                                66960123
                             ]
                         },
                         {
-                            "hashCode": 229139920,
+                            "hashCode": 60413066,
                             "id": 2131362632,
                             "index": 0,
                             "element_level": 40,
@@ -1374,7 +1375,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 244902345,
+                            "hashCode": 66960123,
                             "id": 2131363883,
                             "index": 0,
                             "element_level": 41,
@@ -1405,7 +1406,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 215548181,
+                            "hashCode": 82598401,
                             "id": 2131361951,
                             "index": 2,
                             "element_level": 42,
@@ -1434,12 +1435,12 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                147650766,
-                                6874095
+                                186861336,
+                                37668209
                             ]
                         },
                         {
-                            "hashCode": 147650766,
+                            "hashCode": 186861336,
                             "id": 2131362632,
                             "index": 0,
                             "element_level": 43,
@@ -1468,7 +1469,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 6874095,
+                            "hashCode": 37668209,
                             "id": 2131363883,
                             "index": 0,
                             "element_level": 44,
@@ -1499,7 +1500,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 33033258,
+                            "hashCode": 164941990,
                             "id": 2131361951,
                             "index": 3,
                             "element_level": 45,
@@ -1528,12 +1529,12 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                200675068,
-                                54352261
+                                98765783,
+                                244432068
                             ]
                         },
                         {
-                            "hashCode": 200675068,
+                            "hashCode": 98765783,
                             "id": 2131362632,
                             "index": 0,
                             "element_level": 46,
@@ -1562,7 +1563,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 54352261,
+                            "hashCode": 244432068,
                             "id": 2131363883,
                             "index": 0,
                             "element_level": 47,
@@ -1593,7 +1594,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 214837787,
+                            "hashCode": 227777255,
                             "id": 2131361951,
                             "index": 4,
                             "element_level": 48,
@@ -1622,12 +1623,12 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                71554010,
-                                643083
+                                3102955,
+                                33728072
                             ]
                         },
                         {
-                            "hashCode": 71554010,
+                            "hashCode": 3102955,
                             "id": 2131362632,
                             "index": 0,
                             "element_level": 49,
@@ -1656,7 +1657,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 643083,
+                            "hashCode": 33728072,
                             "id": 2131363883,
                             "index": 0,
                             "element_level": 50,
@@ -1687,7 +1688,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 8279992,
+                            "hashCode": 112559764,
                             "id": 2131361951,
                             "index": 5,
                             "element_level": 51,
@@ -1716,12 +1717,12 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                85139176,
-                                201263361
+                                226159841,
+                                143235590
                             ]
                         },
                         {
-                            "hashCode": 85139176,
+                            "hashCode": 226159841,
                             "id": 2131362632,
                             "index": 0,
                             "element_level": 52,
@@ -1750,7 +1751,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 201263361,
+                            "hashCode": 143235590,
                             "id": 2131363883,
                             "index": 0,
                             "element_level": 53,
@@ -1781,7 +1782,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 81107345,
+                            "hashCode": 79926589,
                             "id": 2131361951,
                             "index": 6,
                             "element_level": 54,
@@ -1810,12 +1811,12 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                136008614,
-                                260268519
+                                103323847,
+                                247455476
                             ]
                         },
                         {
-                            "hashCode": 136008614,
+                            "hashCode": 103323847,
                             "id": 2131362632,
                             "index": 0,
                             "element_level": 55,
@@ -1844,7 +1845,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 260268519,
+                            "hashCode": 247455476,
                             "id": 2131363883,
                             "index": 0,
                             "element_level": 56,
@@ -1875,7 +1876,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 182632694,
+                            "hashCode": 149770546,
                             "id": 2131361951,
                             "index": 7,
                             "element_level": 57,
@@ -1904,12 +1905,12 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                40845716,
-                                198325309
+                                57756629,
+                                135684074
                             ]
                         },
                         {
-                            "hashCode": 40845716,
+                            "hashCode": 57756629,
                             "id": 2131362632,
                             "index": 0,
                             "element_level": 58,
@@ -1938,7 +1939,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 198325309,
+                            "hashCode": 135684074,
                             "id": 2131363883,
                             "index": 0,
                             "element_level": 59,
@@ -1969,7 +1970,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 228281591,
+                            "hashCode": 175439491,
                             "id": 2131361951,
                             "index": 8,
                             "element_level": 60,
@@ -1998,12 +1999,12 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                144245810,
-                                152712579
+                                42455121,
+                                83005622
                             ]
                         },
                         {
-                            "hashCode": 144245810,
+                            "hashCode": 42455121,
                             "id": 2131362632,
                             "index": 0,
                             "element_level": 61,
@@ -2032,7 +2033,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 152712579,
+                            "hashCode": 83005622,
                             "id": 2131363883,
                             "index": 0,
                             "element_level": 62,
@@ -2063,7 +2064,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 178075492,
+                            "hashCode": 95320064,
                             "id": 2131361951,
                             "index": 9,
                             "element_level": 63,
@@ -2092,12 +2093,12 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                46719744,
-                                112383801
+                                189925031,
+                                203286356
                             ]
                         },
                         {
-                            "hashCode": 46719744,
+                            "hashCode": 189925031,
                             "id": 2131362632,
                             "index": 0,
                             "element_level": 64,
@@ -2126,7 +2127,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 112383801,
+                            "hashCode": 203286356,
                             "id": 2131363883,
                             "index": 0,
                             "element_level": 65,
@@ -2157,7 +2158,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 214680413,
+                            "hashCode": 32256370,
                             "id": 2131362572,
                             "index": 0,
                             "element_level": 66,
@@ -2185,7 +2186,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 129953457,
+                            "hashCode": 53627979,
                             "id": 2131362746,
                             "index": 0,
                             "element_level": 67,
@@ -2213,11 +2214,11 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                221434363
+                                70207229
                             ]
                         },
                         {
-                            "hashCode": 221434363,
+                            "hashCode": 70207229,
                             "id": 2131362182,
                             "index": 0,
                             "element_level": 68,
@@ -2245,15 +2246,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                43886253,
-                                213310946,
-                                4425075,
-                                156961840,
-                                110821545
+                                147716547,
+                                27193920,
+                                201119097,
+                                74481650,
+                                138932926
                             ]
                         },
                         {
-                            "hashCode": 43886253,
+                            "hashCode": 147716547,
                             "id": 2131363473,
                             "index": 0,
                             "element_level": 69,
@@ -2283,7 +2284,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 213310946,
+                            "hashCode": 27193920,
                             "id": 2131362688,
                             "index": 0,
                             "element_level": 70,
@@ -2311,7 +2312,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 4425075,
+                            "hashCode": 201119097,
                             "id": 2131362013,
                             "index": 0,
                             "element_level": 71,
@@ -2340,7 +2341,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 110821545,
+                            "hashCode": 138932926,
                             "id": 2131362183,
                             "index": 1,
                             "element_level": 72,
@@ -2368,23 +2369,23 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                80152015,
-                                161266524,
-                                234487397,
-                                215568323,
-                                101861178,
-                                139997163,
-                                115880264,
-                                93395937,
-                                91472062,
-                                105749766,
-                                227008455,
-                                66263540,
-                                119706909
+                                34498115,
+                                260861727,
+                                161542764,
+                                61571748,
+                                250368053,
+                                236725440,
+                                151813322,
+                                110288443,
+                                223081939,
+                                148949336,
+                                28202489,
+                                119454385,
+                                182295446
                             ]
                         },
                         {
-                            "hashCode": 161266524,
+                            "hashCode": 260861727,
                             "id": 2131361938,
                             "index": 0,
                             "element_level": 73,
@@ -2411,7 +2412,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 234487397,
+                            "hashCode": 161542764,
                             "id": 2131361950,
                             "index": 1,
                             "element_level": 74,
@@ -2438,7 +2439,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 215568323,
+                            "hashCode": 61571748,
                             "id": 2131362637,
                             "index": 0,
                             "element_level": 75,
@@ -2466,7 +2467,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 101861178,
+                            "hashCode": 250368053,
                             "id": 2131362681,
                             "index": 0,
                             "element_level": 76,
@@ -2494,7 +2495,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 115880264,
+                            "hashCode": 151813322,
                             "id": 2131364075,
                             "index": 0,
                             "element_level": 77,
@@ -2524,7 +2525,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 91472062,
+                            "hashCode": 223081939,
                             "id": 2131362638,
                             "index": 1,
                             "element_level": 78,
@@ -2552,7 +2553,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 105749766,
+                            "hashCode": 148949336,
                             "id": 2131362682,
                             "index": 1,
                             "element_level": 79,
@@ -2580,7 +2581,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 66263540,
+                            "hashCode": 119454385,
                             "id": 2131364079,
                             "index": 2,
                             "element_level": 80,
@@ -2610,7 +2611,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 81799601,
+                            "hashCode": 152726713,
                             "id": 2131362759,
                             "index": 0,
                             "element_level": 81,
@@ -2637,12 +2638,12 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                112019207,
-                                164991028
+                                218278206,
+                                229057439
                             ]
                         },
                         {
-                            "hashCode": 112019207,
+                            "hashCode": 218278206,
                             "id": 2131363976,
                             "index": 0,
                             "element_level": 82,
@@ -2671,7 +2672,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 164991028,
+                            "hashCode": 229057439,
                             "id": -1,
                             "index": 0,
                             "element_level": 83,
@@ -2697,12 +2698,12 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                236684242,
-                                172838051
+                                150916332,
+                                24467637
                             ]
                         },
                         {
-                            "hashCode": 236684242,
+                            "hashCode": 150916332,
                             "id": 2131362642,
                             "index": 0,
                             "element_level": 84,
@@ -2730,7 +2731,7 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 172838051,
+                            "hashCode": 24467637,
                             "id": 2131364195,
                             "index": 0,
                             "element_level": 85,
@@ -2757,2943 +2758,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 151693679,
-                            "id": 2131362959,
+                            "hashCode": 3841385,
+                            "id": -1,
                             "index": 0,
                             "element_level": 86,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.core.widget.NestedScrollView[0]",
-                            "element_content": "长沙市雨花区欣天琪服装店-T15-我的资金-全部账户-余额（元）-******-返利（元）-******-我的订单-全部订单-待付款-1-待发货-99+-待签收-已完成-其他平台-我的门店-已购用户-潜在用户-短信营销-零售开单-我的库存-我的工具-微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址-售后代报-售前机服务-在线客服",
-                            "sa_id_name": null,
-                            "top": 0,
-                            "left": 0,
-                            "width": 1080,
-                            "height": 2039,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.core.widget.NestedScrollView",
-                                "android.widget.FrameLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": [
-                                187594586
-                            ]
-                        },
-                        {
-                            "hashCode": 187594586,
-                            "id": -1,
-                            "index": 0,
-                            "element_level": 87,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[0]",
-                            "element_content": "长沙市雨花区欣天琪服装店-T15-我的资金-全部账户-余额（元）-******-返利（元）-******-我的订单-全部订单-待付款-1-待发货-99+-待签收-已完成-其他平台-我的门店-已购用户-潜在用户-短信营销-零售开单-我的库存-我的工具-微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址-售后代报-售前机服务-在线客服",
-                            "sa_id_name": null,
-                            "top": 0,
-                            "left": 0,
-                            "width": 1080,
-                            "height": 2876,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": [
-                                79850891,
-                                107676791,
-                                145436264,
-                                91660929,
-                                164409126,
-                                115890023,
-                                205048084,
-                                183100861,
-                                113547186,
-                                228131587,
-                                6513280,
-                                22290617
-                            ]
-                        },
-                        {
-                            "hashCode": 79850891,
-                            "id": 2131361917,
-                            "index": 0,
-                            "element_level": 88,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RRelativeLayout[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.ruffian.library.widget.RRelativeLayout[0]",
-                            "sa_id_name": null,
-                            "top": 0,
-                            "left": 0,
-                            "width": 1080,
-                            "height": 657,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.ruffian.library.widget.RRelativeLayout",
-                                "android.widget.RelativeLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 107676791,
-                            "id": 2131362609,
-                            "index": 0,
-                            "element_level": 89,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "sa_id_name": null,
-                            "top": 225,
-                            "left": 46,
-                            "width": 161,
-                            "height": 161,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 145436264,
-                            "id": 2131363883,
-                            "index": 0,
-                            "element_level": 90,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[0]",
-                            "element_content": "长沙市雨花区欣天琪服装店",
-                            "sa_id_name": "tv_name",
-                            "top": 225,
-                            "left": 230,
-                            "width": 598,
-                            "height": 62,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 91660929,
-                            "id": 2131363256,
-                            "index": 0,
-                            "element_level": 91,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.recyclerview.widget.RecyclerView[0]",
-                            "element_content": "T15",
-                            "sa_id_name": null,
-                            "top": 287,
-                            "left": 230,
-                            "width": 124,
-                            "height": 80,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.recyclerview.widget.RecyclerView",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": [
-                                35572831
-                            ]
-                        },
-                        {
-                            "hashCode": 35572831,
-                            "id": -1,
-                            "index": 0,
-                            "element_level": 92,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "0",
-                            "element_content": "T15",
-                            "sa_id_name": null,
-                            "top": 0,
-                            "left": 0,
-                            "width": 124,
-                            "height": 80,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": true,
-                            "subviews": [
-                                165422764
-                            ]
-                        },
-                        {
-                            "hashCode": 165422764,
-                            "id": 2131364060,
-                            "index": 0,
-                            "element_level": 93,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.ruffian.library.widget.RTextView[0]",
-                            "element_position": "0",
-                            "element_content": "T15",
-                            "sa_id_name": "tv_title",
-                            "top": 29,
-                            "left": 0,
-                            "width": 95,
-                            "height": 51,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.ruffian.library.widget.RTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 115890023,
-                            "id": 2131362764,
-                            "index": 0,
-                            "element_level": 94,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.ruffian.library.widget.RConstraintLayout[0]",
-                            "element_content": "我的资金-全部账户-余额（元）-******-返利（元）-******",
-                            "sa_id_name": null,
-                            "top": 519,
-                            "left": 46,
-                            "width": 988,
-                            "height": 390,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.ruffian.library.widget.RConstraintLayout",
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": [
-                                193793909,
-                                256076554,
-                                235786107,
-                                87753112,
-                                137113073,
-                                171257302,
-                                102754391
-                            ]
-                        },
-                        {
-                            "hashCode": 193793909,
-                            "id": 2131362071,
-                            "index": 0,
-                            "element_level": 95,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[0]",
-                            "element_content": "我的资金",
-                            "sa_id_name": null,
-                            "top": 52,
-                            "left": 46,
-                            "width": 184,
-                            "height": 62,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 256076554,
-                            "id": 2131362678,
-                            "index": 0,
-                            "element_level": 96,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "sa_id_name": null,
-                            "top": 60,
-                            "left": 259,
-                            "width": 63,
-                            "height": 46,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 235786107,
-                            "id": 2131362043,
-                            "index": 1,
-                            "element_level": 97,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[1]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[1]",
-                            "element_content": "全部账户",
-                            "sa_id_name": null,
-                            "top": 57,
-                            "left": 736,
-                            "width": 206,
-                            "height": 53,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 87753112,
-                            "id": 2131363619,
-                            "index": 2,
-                            "element_level": 98,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[2]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[2]",
-                            "element_content": "余额（元）",
-                            "sa_id_name": null,
-                            "top": 166,
-                            "left": 46,
-                            "width": 200,
-                            "height": 53,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 137113073,
-                            "id": 2131363694,
-                            "index": 3,
-                            "element_level": 99,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[3]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[3]",
-                            "element_content": "******",
-                            "sa_id_name": null,
-                            "top": 164,
-                            "left": 822,
-                            "width": 120,
-                            "height": 58,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 171257302,
-                            "id": 2131363613,
-                            "index": 4,
-                            "element_level": 100,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[4]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[4]",
-                            "element_content": "返利（元）",
-                            "sa_id_name": null,
-                            "top": 271,
-                            "left": 46,
-                            "width": 200,
-                            "height": 53,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 102754391,
-                            "id": 2131363955,
-                            "index": 5,
-                            "element_level": 101,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[5]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[5]",
-                            "element_content": "******",
-                            "sa_id_name": null,
-                            "top": 269,
-                            "left": 822,
-                            "width": 120,
-                            "height": 58,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 205048084,
-                            "id": 2131362752,
-                            "index": 1,
-                            "element_level": 102,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.ruffian.library.widget.RConstraintLayout[1]",
-                            "element_content": "我的订单-全部订单-待付款-1-待发货-99+-待签收-已完成-其他平台",
-                            "sa_id_name": null,
-                            "top": 938,
-                            "left": 46,
-                            "width": 988,
-                            "height": 359,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.ruffian.library.widget.RConstraintLayout",
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": [
-                                246062916,
-                                230996013,
-                                212750690
-                            ]
-                        },
-                        {
-                            "hashCode": 246062916,
-                            "id": 2131363645,
-                            "index": 0,
-                            "element_level": 103,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.appcompat.widget.AppCompatTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[0]",
-                            "element_content": "我的订单",
-                            "sa_id_name": null,
-                            "top": 52,
-                            "left": 46,
-                            "width": 184,
-                            "height": 62,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 230996013,
-                            "id": 2131362012,
-                            "index": 1,
-                            "element_level": 104,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.appcompat.widget.AppCompatTextView[1]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[1]",
-                            "element_content": "全部订单",
-                            "sa_id_name": null,
-                            "top": 52,
-                            "left": 736,
-                            "width": 206,
-                            "height": 53,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 212750690,
-                            "id": 2131363242,
-                            "index": 0,
-                            "element_level": 105,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.recyclerview.widget.RecyclerView[0]",
-                            "element_content": "待付款-1-待发货-99+-待签收-已完成-其他平台",
-                            "sa_id_name": null,
-                            "top": 151,
-                            "left": 46,
-                            "width": 896,
-                            "height": 185,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.recyclerview.widget.RecyclerView",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": [
-                                225498137,
-                                12535648,
-                                47443811,
-                                257948050,
-                                233841437
-                            ]
-                        },
-                        {
-                            "hashCode": 225498137,
-                            "id": -1,
-                            "index": 0,
-                            "element_level": 106,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "0",
-                            "element_content": "待付款-1",
-                            "sa_id_name": null,
-                            "top": 10,
-                            "left": 10,
-                            "width": 167,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                114340595,
-                                139750320,
-                                249670185,
-                                212083118
-                            ]
-                        },
-                        {
-                            "hashCode": 114340595,
-                            "id": 2131362690,
-                            "index": 0,
-                            "element_level": 107,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "element_position": "0",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 49,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 139750320,
-                            "id": 2131364086,
-                            "index": 0,
-                            "element_level": 108,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_position": "0",
-                            "element_content": "待付款",
-                            "sa_id_name": null,
-                            "top": 118,
-                            "left": 31,
-                            "width": 105,
-                            "height": 47,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 249670185,
-                            "id": 2131364098,
-                            "index": 0,
-                            "element_level": 109,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.ruffian.library.widget.RTextView[0]",
-                            "element_position": "0",
-                            "element_content": "1",
-                            "sa_id_name": null,
-                            "top": 15,
-                            "left": 95,
-                            "width": 38,
-                            "height": 36,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.ruffian.library.widget.RTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 12535648,
-                            "id": -1,
-                            "index": 1,
-                            "element_level": 110,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "1",
-                            "element_content": "待发货-99+",
-                            "sa_id_name": null,
-                            "top": 10,
-                            "left": 187,
-                            "width": 167,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                193762012,
-                                29474789,
-                                135572154,
-                                44928363
-                            ]
-                        },
-                        {
-                            "hashCode": 193762012,
-                            "id": 2131362690,
-                            "index": 0,
-                            "element_level": 111,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "element_position": "1",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 49,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 29474789,
-                            "id": 2131364086,
-                            "index": 0,
-                            "element_level": 112,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_position": "1",
-                            "element_content": "待发货",
-                            "sa_id_name": null,
-                            "top": 118,
-                            "left": 31,
-                            "width": 105,
-                            "height": 47,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 135572154,
-                            "id": 2131364098,
-                            "index": 0,
-                            "element_level": 113,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/com.ruffian.library.widget.RTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.ruffian.library.widget.RTextView[0]",
-                            "element_position": "1",
-                            "element_content": "99+",
-                            "sa_id_name": null,
-                            "top": 15,
-                            "left": 80,
-                            "width": 68,
-                            "height": 36,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.ruffian.library.widget.RTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 47443811,
-                            "id": -1,
-                            "index": 2,
-                            "element_level": 114,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "2",
-                            "element_content": "待签收",
-                            "sa_id_name": null,
-                            "top": 10,
-                            "left": 364,
-                            "width": 167,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                12452040,
-                                131298657,
-                                215136390,
-                                127243591
-                            ]
-                        },
-                        {
-                            "hashCode": 12452040,
-                            "id": 2131362690,
-                            "index": 0,
-                            "element_level": 115,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "element_position": "2",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 49,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 131298657,
-                            "id": 2131364086,
-                            "index": 0,
-                            "element_level": 116,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_position": "2",
-                            "element_content": "待签收",
-                            "sa_id_name": null,
-                            "top": 118,
-                            "left": 31,
-                            "width": 105,
-                            "height": 47,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 257948050,
-                            "id": -1,
-                            "index": 3,
-                            "element_level": 117,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "3",
-                            "element_content": "已完成",
-                            "sa_id_name": null,
-                            "top": 10,
-                            "left": 541,
-                            "width": 167,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                169238900,
-                                15795869,
-                                17946386,
-                                235683555
-                            ]
-                        },
-                        {
-                            "hashCode": 169238900,
-                            "id": 2131362690,
-                            "index": 0,
-                            "element_level": 118,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "element_position": "3",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 49,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 15795869,
-                            "id": 2131364086,
-                            "index": 0,
-                            "element_level": 119,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_position": "3",
-                            "element_content": "已完成",
-                            "sa_id_name": null,
-                            "top": 118,
-                            "left": 31,
-                            "width": 105,
-                            "height": 47,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 233841437,
-                            "id": -1,
-                            "index": 4,
-                            "element_level": 120,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "4",
-                            "element_content": "其他平台",
-                            "sa_id_name": null,
-                            "top": 10,
-                            "left": 718,
-                            "width": 168,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                217194720,
-                                106721177,
-                                145904222,
-                                196732479
-                            ]
-                        },
-                        {
-                            "hashCode": 217194720,
-                            "id": 2131362690,
-                            "index": 0,
-                            "element_level": 121,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "element_position": "4",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 50,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 106721177,
-                            "id": 2131364086,
-                            "index": 0,
-                            "element_level": 122,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_position": "4",
-                            "element_content": "其他平台",
-                            "sa_id_name": null,
-                            "top": 118,
-                            "left": 14,
-                            "width": 140,
-                            "height": 47,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 228131587,
-                            "id": 2131362755,
-                            "index": 2,
-                            "element_level": 123,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.ruffian.library.widget.RLinearLayout[2]",
-                            "element_content": "我的门店-已购用户-潜在用户-短信营销-零售开单-我的库存",
-                            "sa_id_name": null,
-                            "top": 1326,
-                            "left": 46,
-                            "width": 988,
-                            "height": 359,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.ruffian.library.widget.RLinearLayout",
-                                "android.widget.LinearLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": [
-                                101214988,
-                                159083605
-                            ]
-                        },
-                        {
-                            "hashCode": 101214988,
-                            "id": -1,
-                            "index": 0,
-                            "element_level": 124,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_content": "我的门店",
-                            "sa_id_name": null,
-                            "top": 52,
-                            "left": 46,
-                            "width": 184,
-                            "height": 62,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 159083605,
-                            "id": 2131363240,
-                            "index": 0,
-                            "element_level": 125,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.recyclerview.widget.RecyclerView[0]",
-                            "element_content": "已购用户-潜在用户-短信营销-零售开单-我的库存",
-                            "sa_id_name": null,
-                            "top": 151,
-                            "left": 46,
-                            "width": 896,
-                            "height": 185,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.recyclerview.widget.RecyclerView",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": [
-                                55391850,
-                                242263899,
-                                72821752,
-                                39024849,
-                                251678518
-                            ]
-                        },
-                        {
-                            "hashCode": 55391850,
-                            "id": -1,
-                            "index": 0,
-                            "element_level": 126,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "0",
-                            "element_content": "已购用户",
-                            "sa_id_name": null,
-                            "top": 10,
-                            "left": 10,
-                            "width": 167,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                84434487,
-                                114233252,
-                                163959053,
-                                200943810
-                            ]
-                        },
-                        {
-                            "hashCode": 84434487,
-                            "id": 2131362690,
-                            "index": 0,
-                            "element_level": 127,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "element_position": "0",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 49,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 114233252,
-                            "id": 2131364086,
-                            "index": 0,
-                            "element_level": 128,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_position": "0",
-                            "element_content": "已购用户",
-                            "sa_id_name": null,
-                            "top": 118,
-                            "left": 14,
-                            "width": 140,
-                            "height": 47,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 242263899,
-                            "id": -1,
-                            "index": 1,
-                            "element_level": 129,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "1",
-                            "element_content": "潜在用户",
-                            "sa_id_name": null,
-                            "top": 10,
-                            "left": 187,
-                            "width": 167,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                167421651,
-                                146768400,
-                                193687817,
-                                214306574
-                            ]
-                        },
-                        {
-                            "hashCode": 167421651,
-                            "id": 2131362690,
-                            "index": 0,
-                            "element_level": 130,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "element_position": "1",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 49,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 146768400,
-                            "id": 2131364086,
-                            "index": 0,
-                            "element_level": 131,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_position": "1",
-                            "element_content": "潜在用户",
-                            "sa_id_name": null,
-                            "top": 118,
-                            "left": 14,
-                            "width": 140,
-                            "height": 47,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 72821752,
-                            "id": -1,
-                            "index": 2,
-                            "element_level": 132,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "2",
-                            "element_content": "短信营销",
-                            "sa_id_name": null,
-                            "top": 10,
-                            "left": 364,
-                            "width": 167,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                197057839,
-                                151170876,
-                                200348869,
-                                257429018
-                            ]
-                        },
-                        {
-                            "hashCode": 197057839,
-                            "id": 2131362690,
-                            "index": 0,
-                            "element_level": 133,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "element_position": "2",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 49,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 151170876,
-                            "id": 2131364086,
-                            "index": 0,
-                            "element_level": 134,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_position": "2",
-                            "element_content": "短信营销",
-                            "sa_id_name": null,
-                            "top": 118,
-                            "left": 14,
-                            "width": 140,
-                            "height": 47,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 39024849,
-                            "id": -1,
-                            "index": 3,
-                            "element_level": 135,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "3",
-                            "element_content": "零售开单",
-                            "sa_id_name": null,
-                            "top": 10,
-                            "left": 541,
-                            "width": 167,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                249961803,
-                                132743976,
-                                223557697,
-                                181989862
-                            ]
-                        },
-                        {
-                            "hashCode": 249961803,
-                            "id": 2131362690,
-                            "index": 0,
-                            "element_level": 136,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "element_position": "3",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 49,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 132743976,
-                            "id": 2131364086,
-                            "index": 0,
-                            "element_level": 137,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_position": "3",
-                            "element_content": "零售开单",
-                            "sa_id_name": null,
-                            "top": 118,
-                            "left": 14,
-                            "width": 140,
-                            "height": 47,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 251678518,
-                            "id": -1,
-                            "index": 4,
-                            "element_level": 138,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "4",
-                            "element_content": "我的库存",
-                            "sa_id_name": null,
-                            "top": 10,
-                            "left": 718,
-                            "width": 168,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                100090663,
-                                132622804,
-                                22681469,
-                                238175858
-                            ]
-                        },
-                        {
-                            "hashCode": 100090663,
-                            "id": 2131362690,
-                            "index": 0,
-                            "element_level": 139,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "element_position": "4",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 50,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 132622804,
-                            "id": 2131364086,
-                            "index": 0,
-                            "element_level": 140,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_position": "4",
-                            "element_content": "我的库存",
-                            "sa_id_name": null,
-                            "top": 118,
-                            "left": 14,
-                            "width": 140,
-                            "height": 47,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 6513280,
-                            "id": 2131362758,
-                            "index": 3,
-                            "element_level": 141,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.ruffian.library.widget.RLinearLayout[3]",
-                            "element_content": "我的工具-微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址",
-                            "sa_id_name": null,
-                            "top": 1714,
-                            "left": 46,
-                            "width": 988,
-                            "height": 576,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.ruffian.library.widget.RLinearLayout",
-                                "android.widget.LinearLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": [
-                                185264835,
-                                218074944
-                            ]
-                        },
-                        {
-                            "hashCode": 185264835,
-                            "id": -1,
-                            "index": 0,
-                            "element_level": 142,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_content": "我的工具",
-                            "sa_id_name": null,
-                            "top": 52,
-                            "left": 46,
-                            "width": 184,
-                            "height": 62,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 218074944,
-                            "id": 2131361961,
-                            "index": 0,
-                            "element_level": 143,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.ruffian.library.widget.RLinearLayout[0]",
-                            "element_content": "微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址",
-                            "sa_id_name": null,
-                            "top": 114,
-                            "left": 46,
-                            "width": 896,
-                            "height": 439,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.ruffian.library.widget.RLinearLayout",
-                                "android.widget.LinearLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": [
-                                32878201,
-                                190470078
-                            ]
-                        },
-                        {
-                            "hashCode": 32878201,
-                            "id": 2131364212,
-                            "index": 0,
-                            "element_level": 144,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.viewpager2.widget.ViewPager2[0]",
-                            "element_content": "微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址",
-                            "sa_id_name": null,
-                            "top": 0,
-                            "left": 0,
-                            "width": 896,
-                            "height": 388,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.viewpager2.widget.ViewPager2",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": [
-                                120025119
-                            ]
-                        },
-                        {
-                            "hashCode": 120025119,
-                            "id": 6,
-                            "index": 0,
-                            "element_level": 145,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]",
-                            "element_content": "微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址",
-                            "sa_id_name": null,
-                            "top": 0,
-                            "left": 0,
-                            "width": 896,
-                            "height": 388,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl",
-                                "androidx.recyclerview.widget.RecyclerView",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": [
-                                116285292
-                            ]
-                        },
-                        {
-                            "hashCode": 116285292,
-                            "id": 7,
-                            "index": 0,
-                            "element_level": 146,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/android.widget.FrameLayout[-]",
-                            "element_position": "0",
-                            "element_content": "微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址",
-                            "sa_id_name": null,
-                            "top": 0,
-                            "left": 0,
-                            "width": 896,
-                            "height": 388,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "android.widget.FrameLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": true,
-                            "subviews": [
-                                236566837
-                            ]
-                        },
-                        {
-                            "hashCode": 236566837,
-                            "id": -1,
-                            "index": 0,
-                            "element_level": 147,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/android.widget.FrameLayout[0]",
-                            "element_position": "0",
-                            "element_content": "微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址",
-                            "sa_id_name": null,
-                            "top": 0,
-                            "left": 0,
-                            "width": 896,
-                            "height": 388,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "android.widget.FrameLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": [
-                                190853578
-                            ]
-                        },
-                        {
-                            "hashCode": 190853578,
-                            "id": 2131363080,
-                            "index": 0,
-                            "element_level": 148,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.recyclerview.widget.RecyclerView[0]",
-                            "element_position": "0",
-                            "element_content": "微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址",
-                            "sa_id_name": null,
-                            "top": 0,
-                            "left": 0,
-                            "width": 896,
-                            "height": 388,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.recyclerview.widget.RecyclerView",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": [
-                                56422203,
-                                35128920,
-                                104444849,
-                                121086102,
-                                262226967,
-                                187904004,
-                                75815405,
-                                21311522,
-                                191630003,
-                                28657776
-                            ]
-                        },
-                        {
-                            "hashCode": 56422203,
-                            "id": -1,
-                            "index": 0,
-                            "element_level": 149,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "0",
-                            "element_content": "微海报-NEW",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 0,
-                            "width": 179,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                216147945,
-                                195701870,
-                                202546959,
-                                83786652
-                            ]
-                        },
-                        {
-                            "hashCode": 216147945,
-                            "id": 2131362690,
-                            "index": 0,
-                            "element_level": 150,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "element_position": "0",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 55,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 195701870,
-                            "id": 2131364086,
-                            "index": 0,
-                            "element_level": 151,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_position": "0",
-                            "element_content": "微海报",
-                            "sa_id_name": null,
-                            "top": 118,
-                            "left": 37,
-                            "width": 105,
-                            "height": 47,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 202546959,
-                            "id": 2131364098,
-                            "index": 0,
-                            "element_level": 152,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.ruffian.library.widget.RTextView[0]",
-                            "element_position": "0",
-                            "element_content": "NEW",
-                            "sa_id_name": null,
-                            "top": 15,
-                            "left": 78,
-                            "width": 83,
-                            "height": 36,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.ruffian.library.widget.RTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 35128920,
-                            "id": -1,
-                            "index": 1,
-                            "element_level": 153,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "1",
-                            "element_content": "T课堂",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 179,
-                            "width": 179,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                11295141,
-                                122724730,
-                                216276267,
-                                138786184
-                            ]
-                        },
-                        {
-                            "hashCode": 11295141,
-                            "id": 2131362690,
-                            "index": 0,
-                            "element_level": 154,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "element_position": "1",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 55,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 122724730,
-                            "id": 2131364086,
-                            "index": 0,
-                            "element_level": 155,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_position": "1",
-                            "element_content": "T课堂",
-                            "sa_id_name": null,
-                            "top": 118,
-                            "left": 45,
-                            "width": 90,
-                            "height": 47,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 104444849,
-                            "id": -1,
-                            "index": 2,
-                            "element_level": 156,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "2",
-                            "element_content": "员工管理",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 358,
-                            "width": 179,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                36563745,
-                                129456966,
-                                84238599,
-                                155492916
-                            ]
-                        },
-                        {
-                            "hashCode": 36563745,
-                            "id": 2131362690,
-                            "index": 0,
-                            "element_level": 157,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "element_position": "2",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 55,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 129456966,
-                            "id": 2131364086,
-                            "index": 0,
-                            "element_level": 158,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_position": "2",
-                            "element_content": "员工管理",
-                            "sa_id_name": null,
-                            "top": 118,
-                            "left": 20,
-                            "width": 140,
-                            "height": 47,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 121086102,
-                            "id": -1,
-                            "index": 3,
-                            "element_level": 159,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "3",
-                            "element_content": "电子对账",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 537,
-                            "width": 179,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                64821341,
-                                125691346,
-                                252511907,
-                                94612896
-                            ]
-                        },
-                        {
-                            "hashCode": 64821341,
-                            "id": 2131362690,
-                            "index": 0,
-                            "element_level": 160,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "element_position": "3",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 55,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 125691346,
-                            "id": 2131364086,
-                            "index": 0,
-                            "element_level": 161,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_position": "3",
-                            "element_content": "电子对账",
-                            "sa_id_name": null,
-                            "top": 118,
-                            "left": 20,
-                            "width": 140,
-                            "height": 47,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 262226967,
-                            "id": -1,
-                            "index": 4,
-                            "element_level": 162,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "4",
-                            "element_content": "开发票",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 716,
-                            "width": 180,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                257416537,
-                                162565406,
-                                241134079,
-                                187040716
-                            ]
-                        },
-                        {
-                            "hashCode": 257416537,
-                            "id": 2131362690,
-                            "index": 0,
-                            "element_level": 163,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "element_position": "4",
-                            "sa_id_name": null,
-                            "top": 29,
-                            "left": 56,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 162565406,
-                            "id": 2131364086,
-                            "index": 0,
-                            "element_level": 164,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/com.google.android.material.textview.MaterialTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_position": "4",
-                            "element_content": "开发票",
-                            "sa_id_name": null,
-                            "top": 118,
-                            "left": 38,
-                            "width": 105,
-                            "height": 47,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.google.android.material.textview.MaterialTextView",
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 187904004,
-                            "id": -1,
-                            "index": 5,
-                            "element_level": 165,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[5]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "5",
-                            "element_content": "我的合同",
-                            "sa_id_name": null,
-                            "top": 194,
-                            "left": 0,
-                            "width": 179,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                2094613,
-                                64249130,
-                                239773467,
-                                244682936
-                            ]
-                        },
-                        {
-                            "hashCode": 75815405,
-                            "id": -1,
-                            "index": 6,
-                            "element_level": 166,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[6]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "6",
-                            "element_content": "提货券",
-                            "sa_id_name": null,
-                            "top": 194,
-                            "left": 179,
-                            "width": 179,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                236379793,
-                                213066230,
-                                115513847,
-                                91160676
-                            ]
-                        },
-                        {
-                            "hashCode": 21311522,
-                            "id": -1,
-                            "index": 7,
-                            "element_level": 167,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[7]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "7",
-                            "element_content": "我的T币",
-                            "sa_id_name": null,
-                            "top": 194,
-                            "left": 358,
-                            "width": 179,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                62509773,
-                                199714690,
-                                60612243,
-                                239976144
-                            ]
-                        },
-                        {
-                            "hashCode": 191630003,
-                            "id": -1,
-                            "index": 8,
-                            "element_level": 168,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[8]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "8",
-                            "element_content": "返利",
-                            "sa_id_name": null,
-                            "top": 194,
-                            "left": 537,
-                            "width": 179,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                203280073,
-                                103315918,
-                                128766191,
-                                68679676
-                            ]
-                        },
-                        {
-                            "hashCode": 28657776,
-                            "id": -1,
-                            "index": 9,
-                            "element_level": 169,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[9]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
-                            "element_position": "9",
-                            "element_content": "收货地址",
-                            "sa_id_name": null,
-                            "top": 194,
-                            "left": 716,
-                            "width": 180,
-                            "height": 165,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.constraintlayout.widget.ConstraintLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": [
-                                78352005,
-                                39216346,
-                                203394315,
-                                132814824
-                            ]
-                        },
-                        {
-                            "hashCode": 67380860,
-                            "id": 2131361915,
-                            "index": 0,
-                            "element_level": 170,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.RelativeLayout[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/android.widget.RelativeLayout[0]",
-                            "element_content": "长沙市雨花区欣天琪服装店",
-                            "sa_id_name": null,
-                            "top": 0,
-                            "left": 0,
-                            "width": 1080,
-                            "height": 213,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "android.widget.RelativeLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": [
-                                245075457,
-                                54916262
-                            ]
-                        },
-                        {
-                            "hashCode": 54916262,
-                            "id": -1,
-                            "index": 0,
-                            "element_level": 171,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.RelativeLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.LinearLayoutCompat[0]",
-                            "element_content": "长沙市雨花区欣天琪服装店",
-                            "sa_id_name": null,
-                            "top": 132,
-                            "left": 97,
-                            "width": 937,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.LinearLayoutCompat",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "layoutRules": [
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                -1,
-                                -1,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0,
-                                0
-                            ],
-                            "subviews": [
-                                62385895,
-                                231033492,
-                                204605757,
-                                38581554
-                            ]
-                        },
-                        {
-                            "hashCode": 231033492,
-                            "id": 2131362068,
-                            "index": 0,
-                            "element_level": 172,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.RelativeLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "sa_id_name": null,
-                            "top": 0,
-                            "left": 638,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 204605757,
-                            "id": 2131362080,
-                            "index": 1,
-                            "element_level": 173,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.RelativeLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.appcompat.widget.AppCompatImageView[1]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[1]",
-                            "sa_id_name": null,
-                            "top": 0,
-                            "left": 753,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 38581554,
-                            "id": -1,
-                            "index": 0,
-                            "element_level": 174,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.RelativeLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.FrameLayout[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/android.widget.FrameLayout[0]",
-                            "sa_id_name": null,
-                            "top": 0,
-                            "left": 868,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "android.widget.FrameLayout",
-                                "android.view.ViewGroup",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": [
-                                9081475,
-                                133594112
-                            ]
-                        },
-                        {
-                            "hashCode": 9081475,
-                            "id": 2131362642,
-                            "index": 0,
-                            "element_level": 175,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.RelativeLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
-                            "sa_id_name": null,
-                            "top": 0,
-                            "left": 0,
-                            "width": 69,
-                            "height": 69,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatImageView",
-                                "android.widget.ImageView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": true,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 133594112,
-                            "id": 2131364195,
-                            "index": 0,
-                            "element_level": 176,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.RelativeLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.FrameLayout[0]/com.ruffian.library.widget.RView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/com.ruffian.library.widget.RView[0]",
-                            "sa_id_name": null,
-                            "top": 0,
-                            "left": 46,
-                            "width": 23,
-                            "height": 23,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "com.ruffian.library.widget.RView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": false,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 157702917,
-                            "id": 2131363597,
-                            "index": 0,
-                            "element_level": 177,
-                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[0]",
-                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
-                            "title": "T销客",
-                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[0]",
-                            "element_content": "代理商:C9184604 \n被代理商:\n直营:电视 集成灶 智能门锁 空调 冰洗 ",
-                            "sa_id_name": null,
-                            "top": 115,
-                            "left": 0,
-                            "width": 665,
-                            "height": 147,
-                            "scrollX": 0,
-                            "scrollY": 0,
-                            "visibility": 0,
-                            "translationX": 0,
-                            "translationY": 0,
-                            "classes": [
-                                "androidx.appcompat.widget.AppCompatTextView",
-                                "android.widget.TextView",
-                                "android.view.View"
-                            ],
-                            "importantForAccessibility": true,
-                            "clickable": false,
-                            "subviews": []
-                        },
-                        {
-                            "hashCode": 40811308,
-                            "id": -1,
-                            "index": 0,
-                            "element_level": 178,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -5717,18 +2785,18 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                176212784,
-                                232739753,
-                                21646638,
-                                263917775,
-                                14641756
+                                177879896,
+                                265307313,
+                                42032534,
+                                60603671,
+                                35894532
                             ]
                         },
                         {
-                            "hashCode": 176212784,
+                            "hashCode": 177879896,
                             "id": 2131363411,
                             "index": 0,
-                            "element_level": 179,
+                            "element_level": 87,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.view.View[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -5751,10 +2819,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 232739753,
+                            "hashCode": 265307313,
                             "id": -1,
                             "index": 1,
-                            "element_level": 180,
+                            "element_level": 88,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.view.View[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -5777,10 +2845,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 21646638,
+                            "hashCode": 42032534,
                             "id": 2131361962,
                             "index": 0,
-                            "element_level": 181,
+                            "element_level": 89,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -5804,17 +2872,17 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                11567461,
-                                196218426,
-                                100788971,
-                                19320904
+                                259226349,
+                                65912098,
+                                103158707,
+                                128523632
                             ]
                         },
                         {
-                            "hashCode": 196218426,
+                            "hashCode": 65912098,
                             "id": 2131364064,
                             "index": 0,
-                            "element_level": 182,
+                            "element_level": 90,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -5841,10 +2909,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 100788971,
+                            "hashCode": 103158707,
                             "id": 2131362039,
                             "index": 0,
-                            "element_level": 183,
+                            "element_level": 91,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -5870,10 +2938,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 19320904,
+                            "hashCode": 128523632,
                             "id": 2131362415,
                             "index": 0,
-                            "element_level": 184,
+                            "element_level": 92,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -5896,15 +2964,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                11325153,
-                                61002758
+                                244963561,
+                                80644462
                             ]
                         },
                         {
-                            "hashCode": 11325153,
+                            "hashCode": 244963561,
                             "id": 2131362642,
                             "index": 0,
-                            "element_level": 185,
+                            "element_level": 93,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -5929,10 +2997,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 61002758,
+                            "hashCode": 80644462,
                             "id": 2131364195,
                             "index": 0,
-                            "element_level": 186,
+                            "element_level": 94,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.ruffian.library.widget.RView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -5956,10 +3024,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 263917775,
+                            "hashCode": 60603671,
                             "id": 2131362842,
                             "index": 0,
-                            "element_level": 187,
+                            "element_level": 95,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/net.lucode.hackware.magicindicator.MagicIndicator[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -5984,14 +3052,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                217884916
+                                48510991
                             ]
                         },
                         {
-                            "hashCode": 217884916,
+                            "hashCode": 48510991,
                             "id": -1,
                             "index": 0,
-                            "element_level": 188,
+                            "element_level": 96,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/net.lucode.hackware.magicindicator.MagicIndicator[0]/net.lucode.hackware.magicindicator.buildins.commonnavigator.CommonNavigator[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6016,14 +3084,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                226581405
+                                249208988
                             ]
                         },
                         {
-                            "hashCode": 226581405,
+                            "hashCode": 249208988,
                             "id": -1,
                             "index": 0,
-                            "element_level": 189,
+                            "element_level": 97,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/net.lucode.hackware.magicindicator.MagicIndicator[0]/net.lucode.hackware.magicindicator.buildins.commonnavigator.CommonNavigator[0]/android.widget.FrameLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6047,15 +3115,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                40634386,
-                                39918563
+                                78518949,
+                                182308474
                             ]
                         },
                         {
-                            "hashCode": 40634386,
+                            "hashCode": 78518949,
                             "id": 2131362570,
                             "index": 0,
-                            "element_level": 190,
+                            "element_level": 98,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/net.lucode.hackware.magicindicator.MagicIndicator[0]/net.lucode.hackware.magicindicator.buildins.commonnavigator.CommonNavigator[0]/android.widget.FrameLayout[0]/android.widget.LinearLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6078,14 +3146,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                241842656
+                                28722731
                             ]
                         },
                         {
-                            "hashCode": 241842656,
+                            "hashCode": 28722731,
                             "id": -1,
                             "index": 0,
-                            "element_level": 191,
+                            "element_level": 99,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/net.lucode.hackware.magicindicator.MagicIndicator[0]/net.lucode.hackware.magicindicator.buildins.commonnavigator.CommonNavigator[0]/android.widget.FrameLayout[0]/android.widget.LinearLayout[0]/net.lucode.hackware.magicindicator.buildins.commonnavigator.indicators.LinePagerIndicator[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6109,10 +3177,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 39918563,
+                            "hashCode": 182308474,
                             "id": 2131363553,
                             "index": 1,
-                            "element_level": 192,
+                            "element_level": 100,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/net.lucode.hackware.magicindicator.MagicIndicator[0]/net.lucode.hackware.magicindicator.buildins.commonnavigator.CommonNavigator[0]/android.widget.FrameLayout[0]/android.widget.LinearLayout[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6136,15 +3204,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                69014681,
-                                67015518
+                                71248520,
+                                185252897
                             ]
                         },
                         {
-                            "hashCode": 69014681,
+                            "hashCode": 71248520,
                             "id": -1,
                             "index": 0,
-                            "element_level": 193,
+                            "element_level": 101,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/net.lucode.hackware.magicindicator.MagicIndicator[0]/net.lucode.hackware.magicindicator.buildins.commonnavigator.CommonNavigator[0]/android.widget.FrameLayout[0]/android.widget.LinearLayout[1]/net.lucode.hackware.magicindicator.buildins.commonnavigator.titles.ColorTransitionPagerTitleView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6171,10 +3239,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 67015518,
+                            "hashCode": 185252897,
                             "id": -1,
                             "index": 1,
-                            "element_level": 194,
+                            "element_level": 102,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/net.lucode.hackware.magicindicator.MagicIndicator[0]/net.lucode.hackware.magicindicator.buildins.commonnavigator.CommonNavigator[0]/android.widget.FrameLayout[0]/android.widget.LinearLayout[1]/net.lucode.hackware.magicindicator.buildins.commonnavigator.titles.ColorTransitionPagerTitleView[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6201,10 +3269,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 14641756,
+                            "hashCode": 35894532,
                             "id": 2131364160,
                             "index": 0,
-                            "element_level": 195,
+                            "element_level": 103,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6229,15 +3297,15 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": false,
                             "subviews": [
-                                251015761,
-                                231623350
+                                191518790,
+                                256973319
                             ]
                         },
                         {
-                            "hashCode": 251015761,
+                            "hashCode": 191518790,
                             "id": -1,
                             "index": 0,
-                            "element_level": 196,
+                            "element_level": 104,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6263,14 +3331,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                160839460
+                                65038132
                             ]
                         },
                         {
-                            "hashCode": 160839460,
+                            "hashCode": 65038132,
                             "id": -1,
                             "index": 0,
-                            "element_level": 197,
+                            "element_level": 105,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6295,16 +3363,16 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                208428098,
-                                218075967,
-                                150020783
+                                204863837,
+                                266580690,
+                                81481635
                             ]
                         },
                         {
-                            "hashCode": 208428098,
+                            "hashCode": 204863837,
                             "id": -1,
                             "index": 0,
-                            "element_level": 198,
+                            "element_level": 106,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6329,15 +3397,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                189502547,
-                                26321296
+                                246858400,
+                                182308441
                             ]
                         },
                         {
-                            "hashCode": 189502547,
+                            "hashCode": 246858400,
                             "id": 2131363371,
                             "index": 0,
-                            "element_level": 199,
+                            "element_level": 107,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6362,15 +3430,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                261872265,
-                                15202958
+                                119941662,
+                                222905087
                             ]
                         },
                         {
-                            "hashCode": 261872265,
+                            "hashCode": 119941662,
                             "id": 2131363072,
                             "index": 0,
-                            "element_level": 200,
+                            "element_level": 108,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6395,18 +3463,18 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": false,
                             "subviews": [
-                                157881356,
-                                52519253,
-                                228362090,
-                                48505947,
-                                127493368
+                                181758156,
+                                211023637,
+                                260491818,
+                                75042843,
+                                173426104
                             ]
                         },
                         {
-                            "hashCode": 52519253,
+                            "hashCode": 211023637,
                             "id": -1,
                             "index": 0,
-                            "element_level": 201,
+                            "element_level": 109,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6431,16 +3499,16 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                149142993,
-                                225685558,
-                                162966327
+                                71954321,
+                                94330614,
+                                202281719
                             ]
                         },
                         {
-                            "hashCode": 149142993,
+                            "hashCode": 71954321,
                             "id": 2131361927,
                             "index": 0,
-                            "element_level": 202,
+                            "element_level": 110,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6465,15 +3533,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                242997412,
-                                160785933
+                                84280676,
+                                143455181
                             ]
                         },
                         {
-                            "hashCode": 160785933,
+                            "hashCode": 143455181,
                             "id": -1,
                             "index": 0,
-                            "element_level": 203,
+                            "element_level": 111,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6498,18 +3566,18 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                79862210,
-                                264291283,
-                                149936912,
-                                20928009,
-                                136613902
+                                64648322,
+                                34563987,
+                                13636560,
+                                25296841,
+                                247420622
                             ]
                         },
                         {
-                            "hashCode": 79862210,
+                            "hashCode": 64648322,
                             "id": 2131361933,
                             "index": 0,
-                            "element_level": 204,
+                            "element_level": 112,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6558,17 +3626,17 @@ const mockdata = {
                                 0
                             ],
                             "subviews": [
-                                71944751,
-                                241145916,
-                                164558534,
-                                159271365
+                                88009199,
+                                82484476,
+                                3711893,
+                                178376581
                             ]
                         },
                         {
-                            "hashCode": 241145916,
+                            "hashCode": 82484476,
                             "id": 2131362658,
                             "index": 0,
-                            "element_level": 205,
+                            "element_level": 113,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6618,10 +3686,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 164558534,
+                            "hashCode": 3711893,
                             "id": 2131362632,
                             "index": 0,
-                            "element_level": 206,
+                            "element_level": 114,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/com.ruffian.library.widget.RImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6671,10 +3739,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 159271365,
+                            "hashCode": 178376581,
                             "id": -1,
                             "index": 0,
-                            "element_level": 207,
+                            "element_level": 115,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6723,17 +3791,17 @@ const mockdata = {
                                 0
                             ],
                             "subviews": [
-                                144547610,
-                                162716235,
-                                11271208,
-                                251575617
+                                167645658,
+                                54146571,
+                                63081704,
+                                70573825
                             ]
                         },
                         {
-                            "hashCode": 144547610,
+                            "hashCode": 167645658,
                             "id": -1,
                             "index": 0,
-                            "element_level": 208,
+                            "element_level": 116,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6758,17 +3826,17 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                23499494,
-                                223531047,
-                                215528148,
-                                45673597
+                                37450150,
+                                206841831,
+                                128421780,
+                                9398845
                             ]
                         },
                         {
-                            "hashCode": 23499494,
+                            "hashCode": 37450150,
                             "id": 2131364026,
                             "index": 0,
-                            "element_level": 209,
+                            "element_level": 117,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[0]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6795,10 +3863,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 215528148,
+                            "hashCode": 128421780,
                             "id": 2131363883,
                             "index": 0,
-                            "element_level": 210,
+                            "element_level": 118,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6826,10 +3894,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 45673597,
+                            "hashCode": 9398845,
                             "id": 2131362041,
                             "index": 2,
-                            "element_level": 211,
+                            "element_level": 119,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[0]/com.ruffian.library.widget.RTextView[2]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6856,10 +3924,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 11271208,
+                            "hashCode": 63081704,
                             "id": 2131363823,
                             "index": 0,
-                            "element_level": 212,
+                            "element_level": 120,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6887,10 +3955,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 251575617,
+                            "hashCode": 70573825,
                             "id": 2131363824,
                             "index": 1,
-                            "element_level": 213,
+                            "element_level": 121,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]/com.google.android.material.textview.MaterialTextView[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6918,10 +3986,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 264291283,
+                            "hashCode": 34563987,
                             "id": 2131363939,
                             "index": 0,
-                            "element_level": 214,
+                            "element_level": 122,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -6973,10 +4041,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 149936912,
+                            "hashCode": 13636560,
                             "id": 2131361929,
                             "index": 0,
-                            "element_level": 215,
+                            "element_level": 123,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7025,16 +4093,16 @@ const mockdata = {
                                 0
                             ],
                             "subviews": [
-                                108590962,
-                                17975235,
-                                175646784
+                                127730226,
+                                154229635,
+                                238555392
                             ]
                         },
                         {
-                            "hashCode": 108590962,
+                            "hashCode": 127730226,
                             "id": 2131362035,
                             "index": 0,
-                            "element_level": 216,
+                            "element_level": 124,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7060,10 +4128,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 17975235,
+                            "hashCode": 154229635,
                             "id": 2131362040,
                             "index": 0,
-                            "element_level": 217,
+                            "element_level": 125,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]/android.widget.FrameLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7088,14 +4156,14 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                49075065
+                                151874873
                             ]
                         },
                         {
-                            "hashCode": 49075065,
+                            "hashCode": 151874873,
                             "id": 2131363704,
                             "index": 0,
-                            "element_level": 218,
+                            "element_level": 126,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7122,10 +4190,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 175646784,
+                            "hashCode": 238555392,
                             "id": 2131362027,
                             "index": 1,
-                            "element_level": 219,
+                            "element_level": 127,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]/androidx.appcompat.widget.AppCompatImageView[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7151,10 +4219,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 136613902,
+                            "hashCode": 247420622,
                             "id": 2131362275,
                             "index": 4,
-                            "element_level": 220,
+                            "element_level": 128,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.view.View[4]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7202,10 +4270,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 266016958,
+                            "hashCode": 85266302,
                             "id": 2131362093,
                             "index": 0,
-                            "element_level": 221,
+                            "element_level": 129,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[1]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7232,10 +4300,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 228362090,
+                            "hashCode": 260491818,
                             "id": 2131361957,
                             "index": 1,
-                            "element_level": 222,
+                            "element_level": 130,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.FrameLayout[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7260,15 +4328,15 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                46636319,
-                                98011244
+                                237251807,
+                                244137260
                             ]
                         },
                         {
-                            "hashCode": 98011244,
+                            "hashCode": 244137260,
                             "id": 2131361965,
                             "index": 1,
-                            "element_level": 223,
+                            "element_level": 131,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.FrameLayout[1]/com.ruffian.library.widget.RRelativeLayout[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7294,16 +4362,16 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                132001333,
-                                229376714,
-                                223538235
+                                114205685,
+                                7251338,
+                                138983419
                             ]
                         },
                         {
-                            "hashCode": 132001333,
+                            "hashCode": 114205685,
                             "id": -1,
                             "index": 0,
-                            "element_level": 224,
+                            "element_level": 132,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.FrameLayout[1]/com.ruffian.library.widget.RRelativeLayout[1]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7355,10 +4423,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 229376714,
+                            "hashCode": 7251338,
                             "id": 2131362037,
                             "index": 0,
-                            "element_level": 225,
+                            "element_level": 133,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.FrameLayout[1]/com.ruffian.library.widget.RRelativeLayout[1]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7409,10 +4477,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 48505947,
+                            "hashCode": 75042843,
                             "id": -1,
                             "index": 1,
-                            "element_level": 226,
+                            "element_level": 134,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7437,16 +4505,16 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                15384408,
-                                5273777,
-                                15696278
+                                103219224,
+                                187861617,
+                                253333590
                             ]
                         },
                         {
-                            "hashCode": 15384408,
+                            "hashCode": 103219224,
                             "id": 2131361927,
                             "index": 0,
-                            "element_level": 227,
+                            "element_level": 135,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7471,15 +4539,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                259658007,
-                                116947204
+                                6346967,
+                                144180676
                             ]
                         },
                         {
-                            "hashCode": 116947204,
+                            "hashCode": 144180676,
                             "id": -1,
                             "index": 0,
-                            "element_level": 228,
+                            "element_level": 136,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7504,18 +4572,18 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                163770093,
-                                85598498,
-                                75802547,
-                                252060016,
-                                7113961
+                                68443309,
+                                196500450,
+                                259009395,
+                                233945648,
+                                130487977
                             ]
                         },
                         {
-                            "hashCode": 163770093,
+                            "hashCode": 68443309,
                             "id": 2131361933,
                             "index": 0,
-                            "element_level": 229,
+                            "element_level": 137,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7564,17 +4632,17 @@ const mockdata = {
                                 0
                             ],
                             "subviews": [
-                                106769774,
-                                177736719,
-                                217778266,
-                                151250076
+                                140661806,
+                                18353103,
+                                116691385,
+                                200296796
                             ]
                         },
                         {
-                            "hashCode": 106769774,
+                            "hashCode": 140661806,
                             "id": 2131364028,
                             "index": 0,
-                            "element_level": 230,
+                            "element_level": 138,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7625,10 +4693,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 217778266,
+                            "hashCode": 116691385,
                             "id": 2131362632,
                             "index": 0,
-                            "element_level": 231,
+                            "element_level": 139,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/com.ruffian.library.widget.RImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7678,10 +4746,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 151250076,
+                            "hashCode": 200296796,
                             "id": -1,
                             "index": 0,
-                            "element_level": 232,
+                            "element_level": 140,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7730,17 +4798,17 @@ const mockdata = {
                                 0
                             ],
                             "subviews": [
-                                49811109,
-                                11711098,
-                                47405611,
-                                28880520
+                                80835685,
+                                163808570,
+                                263427563,
+                                99000136
                             ]
                         },
                         {
-                            "hashCode": 49811109,
+                            "hashCode": 80835685,
                             "id": -1,
                             "index": 0,
-                            "element_level": 233,
+                            "element_level": 141,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7765,17 +4833,17 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                100659233,
-                                61439046,
-                                120286727,
-                                158214964
+                                23720417,
+                                114604806,
+                                104048071,
+                                258631668
                             ]
                         },
                         {
-                            "hashCode": 100659233,
+                            "hashCode": 23720417,
                             "id": 2131364026,
                             "index": 0,
-                            "element_level": 234,
+                            "element_level": 142,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[0]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7802,10 +4870,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 120286727,
+                            "hashCode": 104048071,
                             "id": 2131363883,
                             "index": 0,
-                            "element_level": 235,
+                            "element_level": 143,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7833,10 +4901,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 47405611,
+                            "hashCode": 263427563,
                             "id": 2131363823,
                             "index": 0,
-                            "element_level": 236,
+                            "element_level": 144,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7864,10 +4932,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 28880520,
+                            "hashCode": 99000136,
                             "id": 2131363824,
                             "index": 1,
-                            "element_level": 237,
+                            "element_level": 145,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/android.widget.LinearLayout[0]/com.google.android.material.textview.MaterialTextView[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7895,10 +4963,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 85598498,
+                            "hashCode": 196500450,
                             "id": 2131363939,
                             "index": 0,
-                            "element_level": 238,
+                            "element_level": 146,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -7950,10 +5018,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 7113961,
+                            "hashCode": 130487977,
                             "id": 2131362275,
                             "index": 4,
-                            "element_level": 239,
+                            "element_level": 147,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.RelativeLayout[0]/android.view.View[4]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8001,10 +5069,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 5273777,
+                            "hashCode": 187861617,
                             "id": 2131361940,
                             "index": 0,
-                            "element_level": 240,
+                            "element_level": 148,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/android.widget.FrameLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8030,10 +5098,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 55209309,
+                            "hashCode": 112380701,
                             "id": 2131362093,
                             "index": 0,
-                            "element_level": 241,
+                            "element_level": 149,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/android.widget.FrameLayout[1]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8060,10 +5128,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 127493368,
+                            "hashCode": 173426104,
                             "id": -1,
                             "index": 4,
-                            "element_level": 242,
+                            "element_level": 150,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.FrameLayout[0]/com.scwang.smart.refresh.layout.SmartRefreshLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.view.View[4]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8087,10 +5155,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 150020783,
+                            "hashCode": 81481635,
                             "id": 2131361925,
                             "index": 0,
-                            "element_level": 243,
+                            "element_level": 151,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8115,22 +5183,22 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                160908988,
-                                241079877,
-                                242037146,
-                                12008139,
-                                99619496,
-                                47665601,
-                                215797094,
-                                58505383,
-                                76001620
+                                158433682,
+                                62576483,
+                                230690656,
+                                62258201,
+                                195175646,
+                                217679551,
+                                67551628,
+                                69288149,
+                                229093610
                             ]
                         },
                         {
-                            "hashCode": 160908988,
+                            "hashCode": 158433682,
                             "id": 2131362020,
                             "index": 0,
-                            "element_level": 244,
+                            "element_level": 152,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.view.View[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8154,10 +5222,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 241079877,
+                            "hashCode": 62576483,
                             "id": 2131362143,
                             "index": 0,
-                            "element_level": 245,
+                            "element_level": 153,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.google.android.material.checkbox.MaterialCheckBox[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8188,10 +5256,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 242037146,
+                            "hashCode": 230690656,
                             "id": 2131361947,
                             "index": 0,
-                            "element_level": 246,
+                            "element_level": 154,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8216,15 +5284,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                126755646,
-                                104207775
+                                122277851,
+                                103049848
                             ]
                         },
                         {
-                            "hashCode": 126755646,
+                            "hashCode": 122277851,
                             "id": -1,
                             "index": 0,
-                            "element_level": 247,
+                            "element_level": 155,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8252,10 +5320,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 104207775,
+                            "hashCode": 103049848,
                             "id": 2131363711,
                             "index": 1,
-                            "element_level": 248,
+                            "element_level": 156,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[0]/com.google.android.material.textview.MaterialTextView[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8283,10 +5351,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 47665601,
+                            "hashCode": 217679551,
                             "id": 2131362007,
                             "index": 0,
-                            "element_level": 249,
+                            "element_level": 157,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.tcl.tsales_plus.tClass.MyViewPager[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8313,15 +5381,4396 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 112086574,
-                            "id": 2131362972,
+                            "hashCode": 81959913,
+                            "id": 2131362959,
+                            "index": 0,
+                            "element_level": 158,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.core.widget.NestedScrollView[0]",
+                            "element_content": "长沙市雨花区欣天琪服装店-T15-我的资金-全部账户-余额（元）-******-返利（元）-******-我的订单-全部订单-待付款-1-待发货-99+-待签收-已完成-其他平台-我的门店-已购用户-潜在用户-短信营销-零售开单-我的库存-我的工具-微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址-售后代报-售前机服务-在线客服",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 1080,
+                            "height": 2039,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.core.widget.NestedScrollView",
+                                "android.widget.FrameLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": [
+                                109084572
+                            ]
+                        },
+                        {
+                            "hashCode": 109084572,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 159,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[0]",
+                            "element_content": "长沙市雨花区欣天琪服装店-T15-我的资金-全部账户-余额（元）-******-返利（元）-******-我的订单-全部订单-待付款-1-待发货-99+-待签收-已完成-其他平台-我的门店-已购用户-潜在用户-短信营销-零售开单-我的库存-我的工具-微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址-售后代报-售前机服务-在线客服",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 1080,
+                            "height": 2876,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                30515055,
+                                227152811,
+                                61793404,
+                                251478277,
+                                176317786,
+                                33735563,
+                                188992616,
+                                171969957,
+                                67913082,
+                                76933249,
+                                91323686,
+                                114822503
+                            ]
+                        },
+                        {
+                            "hashCode": 30515055,
+                            "id": 2131361917,
+                            "index": 0,
+                            "element_level": 160,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RRelativeLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.ruffian.library.widget.RRelativeLayout[0]",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 1080,
+                            "height": 657,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.ruffian.library.widget.RRelativeLayout",
+                                "android.widget.RelativeLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 227152811,
+                            "id": 2131362609,
+                            "index": 0,
+                            "element_level": 161,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "sa_id_name": null,
+                            "top": 225,
+                            "left": 46,
+                            "width": 161,
+                            "height": 161,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 61793404,
+                            "id": 2131363883,
+                            "index": 0,
+                            "element_level": 162,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[0]",
+                            "element_content": "长沙市雨花区欣天琪服装店",
+                            "sa_id_name": "tv_name",
+                            "top": 225,
+                            "left": 230,
+                            "width": 598,
+                            "height": 62,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 251478277,
+                            "id": 2131363256,
+                            "index": 0,
+                            "element_level": 163,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.recyclerview.widget.RecyclerView[0]",
+                            "element_content": "T15",
+                            "sa_id_name": null,
+                            "top": 287,
+                            "left": 230,
+                            "width": 124,
+                            "height": 80,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.recyclerview.widget.RecyclerView",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": [
+                                213971243
+                            ]
+                        },
+                        {
+                            "hashCode": 213971243,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 164,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "0",
+                            "element_content": "T15",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 124,
+                            "height": 80,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": true,
+                            "subviews": [
+                                165935496
+                            ]
+                        },
+                        {
+                            "hashCode": 165935496,
+                            "id": 2131364060,
+                            "index": 0,
+                            "element_level": 165,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.ruffian.library.widget.RTextView[0]",
+                            "element_position": "0",
+                            "element_content": "T15",
+                            "sa_id_name": "tv_title",
+                            "top": 29,
+                            "left": 0,
+                            "width": 95,
+                            "height": 51,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.ruffian.library.widget.RTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 33735563,
+                            "id": 2131362764,
+                            "index": 0,
+                            "element_level": 166,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.ruffian.library.widget.RConstraintLayout[0]",
+                            "element_content": "我的资金-全部账户-余额（元）-******-返利（元）-******",
+                            "sa_id_name": null,
+                            "top": 519,
+                            "left": 46,
+                            "width": 988,
+                            "height": 390,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.ruffian.library.widget.RConstraintLayout",
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                45958932,
+                                62360509,
+                                48776626,
+                                198056195,
+                                229752960,
+                                5646009,
+                                9505534
+                            ]
+                        },
+                        {
+                            "hashCode": 45958932,
+                            "id": 2131362071,
+                            "index": 0,
+                            "element_level": 167,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[0]",
+                            "element_content": "我的资金",
+                            "sa_id_name": null,
+                            "top": 52,
+                            "left": 46,
+                            "width": 184,
+                            "height": 62,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 62360509,
+                            "id": 2131362678,
+                            "index": 0,
+                            "element_level": 168,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "sa_id_name": null,
+                            "top": 60,
+                            "left": 259,
+                            "width": 63,
+                            "height": 46,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 48776626,
+                            "id": 2131362043,
+                            "index": 1,
+                            "element_level": 169,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[1]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[1]",
+                            "element_content": "全部账户",
+                            "sa_id_name": null,
+                            "top": 57,
+                            "left": 736,
+                            "width": 206,
+                            "height": 53,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 198056195,
+                            "id": 2131363619,
+                            "index": 2,
+                            "element_level": 170,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[2]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[2]",
+                            "element_content": "余额（元）",
+                            "sa_id_name": null,
+                            "top": 166,
+                            "left": 46,
+                            "width": 200,
+                            "height": 53,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 229752960,
+                            "id": 2131363694,
+                            "index": 3,
+                            "element_level": 171,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[3]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[3]",
+                            "element_content": "******",
+                            "sa_id_name": null,
+                            "top": 164,
+                            "left": 822,
+                            "width": 120,
+                            "height": 58,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 5646009,
+                            "id": 2131363613,
+                            "index": 4,
+                            "element_level": 172,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[4]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[4]",
+                            "element_content": "返利（元）",
+                            "sa_id_name": null,
+                            "top": 271,
+                            "left": 46,
+                            "width": 200,
+                            "height": 53,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 9505534,
+                            "id": 2131363955,
+                            "index": 5,
+                            "element_level": 173,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[5]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[5]",
+                            "element_content": "******",
+                            "sa_id_name": null,
+                            "top": 269,
+                            "left": 822,
+                            "width": 120,
+                            "height": 58,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 188992616,
+                            "id": 2131362752,
+                            "index": 1,
+                            "element_level": 174,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.ruffian.library.widget.RConstraintLayout[1]",
+                            "element_content": "我的订单-全部订单-待付款-1-待发货-99+-待签收-已完成-其他平台",
+                            "sa_id_name": null,
+                            "top": 938,
+                            "left": 46,
+                            "width": 988,
+                            "height": 359,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.ruffian.library.widget.RConstraintLayout",
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                227492447,
+                                11691180,
+                                262763893
+                            ]
+                        },
+                        {
+                            "hashCode": 227492447,
+                            "id": 2131363645,
+                            "index": 0,
+                            "element_level": 175,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.appcompat.widget.AppCompatTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[0]",
+                            "element_content": "我的订单",
+                            "sa_id_name": null,
+                            "top": 52,
+                            "left": 46,
+                            "width": 184,
+                            "height": 62,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 11691180,
+                            "id": 2131362012,
+                            "index": 1,
+                            "element_level": 176,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.appcompat.widget.AppCompatTextView[1]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[1]",
+                            "element_content": "全部订单",
+                            "sa_id_name": null,
+                            "top": 52,
+                            "left": 736,
+                            "width": 206,
+                            "height": 53,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 262763893,
+                            "id": 2131363242,
+                            "index": 0,
+                            "element_level": 177,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.recyclerview.widget.RecyclerView[0]",
+                            "element_content": "待付款-1-待发货-99+-待签收-已完成-其他平台",
+                            "sa_id_name": null,
+                            "top": 151,
+                            "left": 46,
+                            "width": 896,
+                            "height": 185,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.recyclerview.widget.RecyclerView",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": [
+                                175097934,
+                                198133577,
+                                225429840,
+                                36602643,
+                                232705538
+                            ]
+                        },
+                        {
+                            "hashCode": 175097934,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 178,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "0",
+                            "element_content": "待付款-1",
+                            "sa_id_name": null,
+                            "top": 10,
+                            "left": 10,
+                            "width": 167,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                55107361,
+                                243875654,
+                                131822855,
+                                8594996
+                            ]
+                        },
+                        {
+                            "hashCode": 55107361,
+                            "id": 2131362690,
+                            "index": 0,
+                            "element_level": 179,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "0",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 49,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 243875654,
+                            "id": 2131364086,
+                            "index": 0,
+                            "element_level": 180,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "0",
+                            "element_content": "待付款",
+                            "sa_id_name": null,
+                            "top": 118,
+                            "left": 31,
+                            "width": 105,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 131822855,
+                            "id": 2131364098,
+                            "index": 0,
+                            "element_level": 181,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.ruffian.library.widget.RTextView[0]",
+                            "element_position": "0",
+                            "element_content": "1",
+                            "sa_id_name": null,
+                            "top": 15,
+                            "left": 95,
+                            "width": 38,
+                            "height": 36,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.ruffian.library.widget.RTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 198133577,
+                            "id": -1,
+                            "index": 1,
+                            "element_level": 182,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "1",
+                            "element_content": "待发货-99+",
+                            "sa_id_name": null,
+                            "top": 10,
+                            "left": 187,
+                            "width": 167,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                229854301,
+                                59378130,
+                                187718307,
+                                205943200
+                            ]
+                        },
+                        {
+                            "hashCode": 229854301,
+                            "id": 2131362690,
+                            "index": 0,
+                            "element_level": 183,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "1",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 49,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 59378130,
+                            "id": 2131364086,
+                            "index": 0,
+                            "element_level": 184,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "1",
+                            "element_content": "待发货",
+                            "sa_id_name": null,
+                            "top": 118,
+                            "left": 31,
+                            "width": 105,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 187718307,
+                            "id": 2131364098,
+                            "index": 0,
+                            "element_level": 185,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/com.ruffian.library.widget.RTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.ruffian.library.widget.RTextView[0]",
+                            "element_position": "1",
+                            "element_content": "99+",
+                            "sa_id_name": null,
+                            "top": 15,
+                            "left": 80,
+                            "width": 68,
+                            "height": 36,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.ruffian.library.widget.RTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 225429840,
+                            "id": -1,
+                            "index": 2,
+                            "element_level": 186,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "2",
+                            "element_content": "待签收",
+                            "sa_id_name": null,
+                            "top": 10,
+                            "left": 364,
+                            "width": 167,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                39670105,
+                                73068830,
+                                191102463,
+                                53544908
+                            ]
+                        },
+                        {
+                            "hashCode": 39670105,
+                            "id": 2131362690,
+                            "index": 0,
+                            "element_level": 187,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "2",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 49,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 73068830,
+                            "id": 2131364086,
+                            "index": 0,
+                            "element_level": 188,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "2",
+                            "element_content": "待签收",
+                            "sa_id_name": null,
+                            "top": 118,
+                            "left": 31,
+                            "width": 105,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 36602643,
+                            "id": -1,
+                            "index": 3,
+                            "element_level": 189,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "3",
+                            "element_content": "已完成",
+                            "sa_id_name": null,
+                            "top": 10,
+                            "left": 541,
+                            "width": 167,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                567829,
+                                146866474,
+                                151288603,
+                                105698488
+                            ]
+                        },
+                        {
+                            "hashCode": 567829,
+                            "id": 2131362690,
+                            "index": 0,
+                            "element_level": 190,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "3",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 49,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 146866474,
+                            "id": 2131364086,
+                            "index": 0,
+                            "element_level": 191,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "3",
+                            "element_content": "已完成",
+                            "sa_id_name": null,
+                            "top": 118,
+                            "left": 31,
+                            "width": 105,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 232705538,
+                            "id": -1,
+                            "index": 4,
+                            "element_level": 192,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "4",
+                            "element_content": "其他平台",
+                            "sa_id_name": null,
+                            "top": 10,
+                            "left": 718,
+                            "width": 168,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                97964689,
+                                231081462,
+                                90549751,
+                                190219364
+                            ]
+                        },
+                        {
+                            "hashCode": 97964689,
+                            "id": 2131362690,
+                            "index": 0,
+                            "element_level": 193,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "4",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 50,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 231081462,
+                            "id": 2131364086,
+                            "index": 0,
+                            "element_level": 194,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RConstraintLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "4",
+                            "element_content": "其他平台",
+                            "sa_id_name": null,
+                            "top": 118,
+                            "left": 14,
+                            "width": 140,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 76933249,
+                            "id": 2131362755,
+                            "index": 2,
+                            "element_level": 195,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.ruffian.library.widget.RLinearLayout[2]",
+                            "element_content": "我的门店-已购用户-潜在用户-短信营销-零售开单-我的库存",
+                            "sa_id_name": null,
+                            "top": 1326,
+                            "left": 46,
+                            "width": 988,
+                            "height": 359,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.ruffian.library.widget.RLinearLayout",
+                                "android.widget.LinearLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                175036682,
+                                252683643
+                            ]
+                        },
+                        {
+                            "hashCode": 175036682,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 196,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_content": "我的门店",
+                            "sa_id_name": null,
+                            "top": 52,
+                            "left": 46,
+                            "width": 184,
+                            "height": 62,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 252683643,
+                            "id": 2131363240,
+                            "index": 0,
+                            "element_level": 197,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.recyclerview.widget.RecyclerView[0]",
+                            "element_content": "已购用户-潜在用户-短信营销-零售开单-我的库存",
+                            "sa_id_name": null,
+                            "top": 151,
+                            "left": 46,
+                            "width": 896,
+                            "height": 185,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.recyclerview.widget.RecyclerView",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": [
+                                159712973,
+                                88378242,
+                                155005587,
+                                86606544,
+                                90718921
+                            ]
+                        },
+                        {
+                            "hashCode": 159712973,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 198,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "0",
+                            "element_content": "已购用户",
+                            "sa_id_name": null,
+                            "top": 10,
+                            "left": 10,
+                            "width": 167,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                36953550,
+                                150889711,
+                                116128764,
+                                170476165
+                            ]
+                        },
+                        {
+                            "hashCode": 36953550,
+                            "id": 2131362690,
+                            "index": 0,
+                            "element_level": 199,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "0",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 49,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 150889711,
+                            "id": 2131364086,
+                            "index": 0,
+                            "element_level": 200,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "0",
+                            "element_content": "已购用户",
+                            "sa_id_name": null,
+                            "top": 118,
+                            "left": 14,
+                            "width": 140,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 88378242,
+                            "id": -1,
+                            "index": 1,
+                            "element_level": 201,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "1",
+                            "element_content": "潜在用户",
+                            "sa_id_name": null,
+                            "top": 10,
+                            "left": 187,
+                            "width": 167,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                229902554,
+                                49701131,
+                                234544104,
+                                4227585
+                            ]
+                        },
+                        {
+                            "hashCode": 229902554,
+                            "id": 2131362690,
+                            "index": 0,
+                            "element_level": 202,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "1",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 49,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 49701131,
+                            "id": 2131364086,
+                            "index": 0,
+                            "element_level": 203,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "1",
+                            "element_content": "潜在用户",
+                            "sa_id_name": null,
+                            "top": 118,
+                            "left": 14,
+                            "width": 140,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 155005587,
+                            "id": -1,
+                            "index": 2,
+                            "element_level": 204,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "2",
+                            "element_content": "短信营销",
+                            "sa_id_name": null,
+                            "top": 10,
+                            "left": 364,
+                            "width": 167,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                52953831,
+                                244698772,
+                                87178557,
+                                255514930
+                            ]
+                        },
+                        {
+                            "hashCode": 52953831,
+                            "id": 2131362690,
+                            "index": 0,
+                            "element_level": 205,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "2",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 49,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 244698772,
+                            "id": 2131364086,
+                            "index": 0,
+                            "element_level": 206,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "2",
+                            "element_content": "短信营销",
+                            "sa_id_name": null,
+                            "top": 118,
+                            "left": 14,
+                            "width": 140,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 86606544,
+                            "id": -1,
+                            "index": 3,
+                            "element_level": 207,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "3",
+                            "element_content": "零售开单",
+                            "sa_id_name": null,
+                            "top": 10,
+                            "left": 541,
+                            "width": 167,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                149415555,
+                                256589824,
+                                9072697,
+                                238638718
+                            ]
+                        },
+                        {
+                            "hashCode": 149415555,
+                            "id": 2131362690,
+                            "index": 0,
+                            "element_level": 208,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "3",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 49,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 256589824,
+                            "id": 2131364086,
+                            "index": 0,
+                            "element_level": 209,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "3",
+                            "element_content": "零售开单",
+                            "sa_id_name": null,
+                            "top": 118,
+                            "left": 14,
+                            "width": 140,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 90718921,
+                            "id": -1,
+                            "index": 4,
+                            "element_level": 210,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "4",
+                            "element_content": "我的库存",
+                            "sa_id_name": null,
+                            "top": 10,
+                            "left": 718,
+                            "width": 168,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                171468767,
+                                254041132,
+                                211343093,
+                                84958346
+                            ]
+                        },
+                        {
+                            "hashCode": 171468767,
+                            "id": 2131362690,
+                            "index": 0,
+                            "element_level": 211,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "4",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 50,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 254041132,
+                            "id": 2131364086,
+                            "index": 0,
+                            "element_level": 212,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "4",
+                            "element_content": "我的库存",
+                            "sa_id_name": null,
+                            "top": 118,
+                            "left": 14,
+                            "width": 140,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 91323686,
+                            "id": 2131362758,
+                            "index": 3,
+                            "element_level": 213,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.ruffian.library.widget.RLinearLayout[3]",
+                            "element_content": "我的工具-微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址",
+                            "sa_id_name": null,
+                            "top": 1714,
+                            "left": 46,
+                            "width": 988,
+                            "height": 576,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.ruffian.library.widget.RLinearLayout",
+                                "android.widget.LinearLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                104275864,
+                                145290225
+                            ]
+                        },
+                        {
+                            "hashCode": 104275864,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 214,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_content": "我的工具",
+                            "sa_id_name": null,
+                            "top": 52,
+                            "left": 46,
+                            "width": 184,
+                            "height": 62,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 145290225,
+                            "id": 2131361961,
+                            "index": 0,
+                            "element_level": 215,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.ruffian.library.widget.RLinearLayout[0]",
+                            "element_content": "微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址",
+                            "sa_id_name": null,
+                            "top": 114,
+                            "left": 46,
+                            "width": 896,
+                            "height": 439,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.ruffian.library.widget.RLinearLayout",
+                                "android.widget.LinearLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                128547798,
+                                73997911
+                            ]
+                        },
+                        {
+                            "hashCode": 128547798,
+                            "id": 2131364212,
+                            "index": 0,
+                            "element_level": 216,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.viewpager2.widget.ViewPager2[0]",
+                            "element_content": "微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 896,
+                            "height": 388,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.viewpager2.widget.ViewPager2",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": [
+                                15049467
+                            ]
+                        },
+                        {
+                            "hashCode": 15049467,
+                            "id": 14,
+                            "index": 0,
+                            "element_level": 217,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]",
+                            "element_content": "微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 896,
+                            "height": 388,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl",
+                                "androidx.recyclerview.widget.RecyclerView",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                43061016
+                            ]
+                        },
+                        {
+                            "hashCode": 43061016,
+                            "id": 15,
+                            "index": 0,
+                            "element_level": 218,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.FrameLayout[-]",
+                            "element_position": "0",
+                            "element_content": "微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 896,
+                            "height": 388,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.FrameLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": true,
+                            "subviews": [
+                                250408305
+                            ]
+                        },
+                        {
+                            "hashCode": 250408305,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 219,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.FrameLayout[0]",
+                            "element_position": "0",
+                            "element_content": "微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 896,
+                            "height": 388,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.FrameLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                27244374
+                            ]
+                        },
+                        {
+                            "hashCode": 27244374,
+                            "id": 2131363080,
+                            "index": 0,
+                            "element_level": 220,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.recyclerview.widget.RecyclerView[0]",
+                            "element_position": "0",
+                            "element_content": "微海报-NEW-T课堂-员工管理-电子对账-开发票-我的合同-提货券-我的T币-返利-收货地址",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 896,
+                            "height": 388,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.recyclerview.widget.RecyclerView",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": [
+                                224490455,
+                                51643588,
+                                210890669,
+                                234353378,
+                                190805619,
+                                229550384,
+                                101374377,
+                                44456750,
+                                70321871,
+                                202188892
+                            ]
+                        },
+                        {
+                            "hashCode": 224490455,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 221,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "0",
+                            "element_content": "微海报-NEW",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 0,
+                            "width": 179,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                118384485,
+                                29424698,
+                                182534379,
+                                74608200
+                            ]
+                        },
+                        {
+                            "hashCode": 118384485,
+                            "id": 2131362690,
+                            "index": 0,
+                            "element_level": 222,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "0",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 55,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 29424698,
+                            "id": 2131364086,
+                            "index": 0,
+                            "element_level": 223,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "0",
+                            "element_content": "微海报",
+                            "sa_id_name": null,
+                            "top": 118,
+                            "left": 37,
+                            "width": 105,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 182534379,
+                            "id": 2131364098,
+                            "index": 0,
+                            "element_level": 224,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.ruffian.library.widget.RTextView[0]",
+                            "element_position": "0",
+                            "element_content": "NEW",
+                            "sa_id_name": null,
+                            "top": 15,
+                            "left": 78,
+                            "width": 83,
+                            "height": 36,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.ruffian.library.widget.RTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 51643588,
+                            "id": -1,
+                            "index": 1,
+                            "element_level": 225,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "1",
+                            "element_content": "T课堂",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 179,
+                            "width": 179,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                100865249,
+                                112370182,
+                                235995335,
+                                207890164
+                            ]
+                        },
+                        {
+                            "hashCode": 100865249,
+                            "id": 2131362690,
+                            "index": 0,
+                            "element_level": 226,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "1",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 55,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 112370182,
+                            "id": 2131364086,
+                            "index": 0,
+                            "element_level": 227,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "1",
+                            "element_content": "T课堂",
+                            "sa_id_name": null,
+                            "top": 118,
+                            "left": 45,
+                            "width": 90,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 210890669,
+                            "id": -1,
+                            "index": 2,
+                            "element_level": 228,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "2",
+                            "element_content": "员工管理",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 358,
+                            "width": 179,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                194175587,
+                                169262688,
+                                133201689,
+                                242609118
+                            ]
+                        },
+                        {
+                            "hashCode": 194175587,
+                            "id": 2131362690,
+                            "index": 0,
+                            "element_level": 229,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "2",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 55,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 169262688,
+                            "id": 2131364086,
+                            "index": 0,
+                            "element_level": 230,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "2",
+                            "element_content": "员工管理",
+                            "sa_id_name": null,
+                            "top": 118,
+                            "left": 20,
+                            "width": 140,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 234353378,
+                            "id": -1,
+                            "index": 3,
+                            "element_level": 231,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "3",
+                            "element_content": "电子对账",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 537,
+                            "width": 179,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                29835711,
+                                10051724,
+                                83948501,
+                                124839914
+                            ]
+                        },
+                        {
+                            "hashCode": 29835711,
+                            "id": 2131362690,
+                            "index": 0,
+                            "element_level": 232,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "3",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 55,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 10051724,
+                            "id": 2131364086,
+                            "index": 0,
+                            "element_level": 233,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "3",
+                            "element_content": "电子对账",
+                            "sa_id_name": null,
+                            "top": 118,
+                            "left": 20,
+                            "width": 140,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 190805619,
+                            "id": -1,
+                            "index": 4,
+                            "element_level": 234,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "4",
+                            "element_content": "开发票",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 716,
+                            "width": 180,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                179845851,
+                                46266744,
+                                23722065,
+                                57514166
+                            ]
+                        },
+                        {
+                            "hashCode": 179845851,
+                            "id": 2131362690,
+                            "index": 0,
+                            "element_level": 235,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "4",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 56,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 46266744,
+                            "id": 2131364086,
+                            "index": 0,
+                            "element_level": 236,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "4",
+                            "element_content": "开发票",
+                            "sa_id_name": null,
+                            "top": 118,
+                            "left": 38,
+                            "width": 105,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 229550384,
+                            "id": -1,
+                            "index": 5,
+                            "element_level": 237,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[5]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "5",
+                            "element_content": "我的合同",
+                            "sa_id_name": null,
+                            "top": 194,
+                            "left": 0,
+                            "width": 179,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                217426359,
+                                148452644,
+                                8702093,
+                                129141314
+                            ]
+                        },
+                        {
+                            "hashCode": 101374377,
+                            "id": -1,
+                            "index": 6,
+                            "element_level": 238,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[6]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "6",
+                            "element_content": "提货券",
+                            "sa_id_name": null,
+                            "top": 194,
+                            "left": 179,
+                            "width": 179,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                238103123,
+                                84311952,
+                                134373513,
+                                90376334
+                            ]
+                        },
+                        {
+                            "hashCode": 44456750,
+                            "id": -1,
+                            "index": 7,
+                            "element_level": 239,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[7]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "7",
+                            "element_content": "我的T币",
+                            "sa_id_name": null,
+                            "top": 194,
+                            "left": 358,
+                            "width": 179,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                60430511,
+                                41682108,
+                                229080133,
+                                176889754
+                            ]
+                        },
+                        {
+                            "hashCode": 70321871,
+                            "id": -1,
+                            "index": 8,
+                            "element_level": 240,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[8]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "8",
+                            "element_content": "返利",
+                            "sa_id_name": null,
+                            "top": 194,
+                            "left": 537,
+                            "width": 179,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                200904907,
+                                191017128,
+                                80254913,
+                                132881254
+                            ]
+                        },
+                        {
+                            "hashCode": 202188892,
+                            "id": -1,
+                            "index": 9,
+                            "element_level": 241,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[3]/com.ruffian.library.widget.RLinearLayout[0]/androidx.viewpager2.widget.ViewPager2[0]/androidx.viewpager2.widget.ViewPager2.RecyclerViewImpl[0]/android.widget.FrameLayout[0]/android.widget.FrameLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[9]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "9",
+                            "element_content": "收货地址",
+                            "sa_id_name": null,
+                            "top": 194,
+                            "left": 716,
+                            "width": 180,
+                            "height": 165,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                260992679,
+                                25571156,
+                                126217981,
+                                126224370
+                            ]
+                        },
+                        {
+                            "hashCode": 255037550,
+                            "id": 2131361915,
+                            "index": 0,
+                            "element_level": 242,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.RelativeLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.RelativeLayout[0]",
+                            "element_content": "长沙市雨花区欣天琪服装店",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 1080,
+                            "height": 213,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.RelativeLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                27872835,
+                                96529600
+                            ]
+                        },
+                        {
+                            "hashCode": 96529600,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 243,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.RelativeLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.LinearLayoutCompat[0]",
+                            "element_content": "长沙市雨花区欣天琪服装店",
+                            "sa_id_name": null,
+                            "top": 132,
+                            "left": 97,
+                            "width": 937,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.LinearLayoutCompat",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "layoutRules": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                -1,
+                                -1,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0,
+                                0
+                            ],
+                            "subviews": [
+                                130514425,
+                                266907966,
+                                560031,
+                                170398956
+                            ]
+                        },
+                        {
+                            "hashCode": 266907966,
+                            "id": 2131362068,
+                            "index": 0,
+                            "element_level": 244,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.RelativeLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 638,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 560031,
+                            "id": 2131362080,
+                            "index": 1,
+                            "element_level": 245,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.RelativeLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.appcompat.widget.AppCompatImageView[1]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[1]",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 753,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 170398956,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 246,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.RelativeLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.FrameLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.FrameLayout[0]",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 868,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.FrameLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                66650293,
+                                3842890
+                            ]
+                        },
+                        {
+                            "hashCode": 66650293,
+                            "id": 2131362642,
+                            "index": 0,
+                            "element_level": 247,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.RelativeLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 3842890,
+                            "id": 2131364195,
+                            "index": 0,
+                            "element_level": 248,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.RelativeLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/android.widget.FrameLayout[0]/com.ruffian.library.widget.RView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.ruffian.library.widget.RView[0]",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 46,
+                            "width": 23,
+                            "height": 23,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.ruffian.library.widget.RView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 34222863,
+                            "id": 2131363597,
+                            "index": 0,
+                            "element_level": 249,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatTextView[0]",
+                            "element_content": "代理商:C9184604 \n被代理商:\n直营:电视 集成灶 智能门锁 空调 冰洗 ",
+                            "sa_id_name": null,
+                            "top": 115,
+                            "left": 0,
+                            "width": 665,
+                            "height": 147,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 234594555,
+                            "id": -1,
                             "index": 0,
                             "element_level": 250,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.LinearLayout[0]",
+                            "element_content": "热门新品-电视-空调-冰箱-洗衣机-智能门锁-集成灶-上市时间-2017年8月-调音台-有-分辨率-3840*2160-类型",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 1080,
+                            "height": 2039,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.LinearLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                62790513,
+                                229543728,
+                                34850729
+                            ]
+                        },
+                        {
+                            "hashCode": 62790513,
+                            "id": 2131362759,
+                            "index": 0,
+                            "element_level": 251,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.LinearLayout[0]",
+                            "element_content": "热门新品",
+                            "sa_id_name": null,
+                            "top": 81,
+                            "left": 0,
+                            "width": 1080,
+                            "height": 184,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.LinearLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                247564996,
+                                138935725
+                            ]
+                        },
+                        {
+                            "hashCode": 247564996,
+                            "id": 2131363976,
+                            "index": 0,
+                            "element_level": 252,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[0]/com.ruffian.library.widget.RTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.ruffian.library.widget.RTextView[0]",
+                            "element_content": "热门新品",
+                            "sa_id_name": null,
+                            "top": 46,
+                            "left": 46,
+                            "width": 873,
+                            "height": 92,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.ruffian.library.widget.RTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 138935725,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 253,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[0]/android.widget.FrameLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.FrameLayout[0]",
+                            "sa_id_name": null,
+                            "top": 46,
+                            "left": 965,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.FrameLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                113240290,
+                                158807155
+                            ]
+                        },
+                        {
+                            "hashCode": 113240290,
+                            "id": 2131362642,
+                            "index": 0,
+                            "element_level": 254,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 69,
+                            "height": 69,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 158807155,
+                            "id": 2131364195,
+                            "index": 0,
+                            "element_level": 255,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/com.ruffian.library.widget.RView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.ruffian.library.widget.RView[0]",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 46,
+                            "width": 23,
+                            "height": 23,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.ruffian.library.widget.RView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 229543728,
+                            "id": -1,
+                            "index": 1,
+                            "element_level": 256,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.view.View[1]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.view.View[1]",
+                            "sa_id_name": null,
+                            "top": 265,
+                            "left": 0,
+                            "width": 1080,
+                            "height": 3,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 34850729,
+                            "id": -1,
+                            "index": 1,
+                            "element_level": 257,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.LinearLayout[1]",
+                            "element_content": "电视-空调-冰箱-洗衣机-智能门锁-集成灶-上市时间-2017年8月-调音台-有-分辨率-3840*2160-类型",
+                            "sa_id_name": null,
+                            "top": 268,
+                            "left": 0,
+                            "width": 1080,
+                            "height": 1771,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.LinearLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                251113774,
+                                252093647,
+                                52784732
+                            ]
+                        },
+                        {
+                            "hashCode": 251113774,
+                            "id": 2131363247,
+                            "index": 0,
+                            "element_level": 258,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.recyclerview.widget.RecyclerView[0]",
+                            "element_content": "电视-空调-冰箱-洗衣机-智能门锁-集成灶",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 323,
+                            "height": 1771,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.recyclerview.widget.RecyclerView",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": [
+                                166749590,
+                                39003415,
+                                159251716,
+                                47457005,
+                                121980194,
+                                232455091
+                            ]
+                        },
+                        {
+                            "hashCode": 166749590,
+                            "id": 2131362182,
+                            "index": 0,
+                            "element_level": 259,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "0",
+                            "element_content": "电视",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 323,
+                            "height": 132,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                241165680,
+                                190644457,
+                                169251182
+                            ]
+                        },
+                        {
+                            "hashCode": 241165680,
+                            "id": 2131364196,
+                            "index": 0,
+                            "element_level": 260,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.view.View[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.view.View[0]",
+                            "element_position": "0",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 0,
+                            "width": 14,
+                            "height": 74,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 190644457,
+                            "id": 2131364060,
+                            "index": 0,
+                            "element_level": 261,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "0",
+                            "element_content": "电视",
+                            "sa_id_name": "tv_title",
+                            "top": 40,
+                            "left": 122,
+                            "width": 80,
+                            "height": 53,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 39003415,
+                            "id": 2131362182,
+                            "index": 1,
+                            "element_level": 262,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "1",
+                            "element_content": "空调",
+                            "sa_id_name": null,
+                            "top": 132,
+                            "left": 0,
+                            "width": 323,
+                            "height": 132,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                83861519,
+                                238413980,
+                                242991781
+                            ]
+                        },
+                        {
+                            "hashCode": 83861519,
+                            "id": 2131364196,
+                            "index": 0,
+                            "element_level": 263,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/android.view.View[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.view.View[0]",
+                            "element_position": "1",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 0,
+                            "width": 14,
+                            "height": 74,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 238413980,
+                            "id": 2131364060,
+                            "index": 0,
+                            "element_level": 264,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "1",
+                            "element_content": "空调",
+                            "sa_id_name": "tv_title",
+                            "top": 40,
+                            "left": 122,
+                            "width": 80,
+                            "height": 53,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 159251716,
+                            "id": 2131362182,
+                            "index": 2,
+                            "element_level": 265,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "2",
+                            "element_content": "冰箱",
+                            "sa_id_name": null,
+                            "top": 264,
+                            "left": 0,
+                            "width": 323,
+                            "height": 132,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                10376826,
+                                236989995,
+                                34009736
+                            ]
+                        },
+                        {
+                            "hashCode": 10376826,
+                            "id": 2131364196,
+                            "index": 0,
+                            "element_level": 266,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/android.view.View[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.view.View[0]",
+                            "element_position": "2",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 0,
+                            "width": 14,
+                            "height": 74,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 236989995,
+                            "id": 2131364060,
+                            "index": 0,
+                            "element_level": 267,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "2",
+                            "element_content": "冰箱",
+                            "sa_id_name": "tv_title",
+                            "top": 40,
+                            "left": 122,
+                            "width": 80,
+                            "height": 53,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 47457005,
+                            "id": 2131362182,
+                            "index": 3,
+                            "element_level": 268,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "3",
+                            "element_content": "洗衣机",
+                            "sa_id_name": null,
+                            "top": 396,
+                            "left": 0,
+                            "width": 323,
+                            "height": 132,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                134931489,
+                                11231302,
+                                208765447
+                            ]
+                        },
+                        {
+                            "hashCode": 134931489,
+                            "id": 2131364196,
+                            "index": 0,
+                            "element_level": 269,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/android.view.View[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.view.View[0]",
+                            "element_position": "3",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 0,
+                            "width": 14,
+                            "height": 74,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 11231302,
+                            "id": 2131364060,
+                            "index": 0,
+                            "element_level": 270,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "3",
+                            "element_content": "洗衣机",
+                            "sa_id_name": "tv_title",
+                            "top": 40,
+                            "left": 102,
+                            "width": 120,
+                            "height": 53,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 121980194,
+                            "id": 2131362182,
+                            "index": 4,
+                            "element_level": 271,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "4",
+                            "element_content": "智能门锁",
+                            "sa_id_name": null,
+                            "top": 528,
+                            "left": 0,
+                            "width": 323,
+                            "height": 132,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                173846324,
+                                219193693,
+                                204290770
+                            ]
+                        },
+                        {
+                            "hashCode": 173846324,
+                            "id": 2131364196,
+                            "index": 0,
+                            "element_level": 272,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/android.view.View[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.view.View[0]",
+                            "element_position": "4",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 0,
+                            "width": 14,
+                            "height": 74,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 219193693,
+                            "id": 2131364060,
+                            "index": 0,
+                            "element_level": 273,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "4",
+                            "element_content": "智能门锁",
+                            "sa_id_name": "tv_title",
+                            "top": 40,
+                            "left": 82,
+                            "width": 160,
+                            "height": 53,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 232455091,
+                            "id": 2131362182,
+                            "index": 5,
+                            "element_level": 274,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[5]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[-]",
+                            "element_position": "5",
+                            "element_content": "集成灶",
+                            "sa_id_name": null,
+                            "top": 660,
+                            "left": 0,
+                            "width": 323,
+                            "height": 132,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.constraintlayout.widget.ConstraintLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                127547299,
+                                78613152,
+                                45807193
+                            ]
+                        },
+                        {
+                            "hashCode": 127547299,
+                            "id": 2131364196,
+                            "index": 0,
+                            "element_level": 275,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[5]/android.view.View[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.view.View[0]",
+                            "element_position": "5",
+                            "sa_id_name": null,
+                            "top": 29,
+                            "left": 0,
+                            "width": 14,
+                            "height": 74,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 78613152,
+                            "id": 2131364060,
+                            "index": 0,
+                            "element_level": 276,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[5]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "5",
+                            "element_content": "集成灶",
+                            "sa_id_name": "tv_title",
+                            "top": 40,
+                            "left": 102,
+                            "width": 120,
+                            "height": 53,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 252093647,
+                            "id": -1,
+                            "index": 1,
+                            "element_level": 277,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/android.view.View[1]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.view.View[1]",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 323,
+                            "width": 3,
+                            "height": 1771,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 52784732,
+                            "id": 2131362417,
+                            "index": 0,
+                            "element_level": 278,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.fragment.app.FragmentContainerView[0]",
+                            "element_content": "上市时间-2017年8月-调音台-有-分辨率-3840*2160-类型",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 326,
+                            "width": 754,
+                            "height": 1771,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.fragment.app.FragmentContainerView",
+                                "android.widget.FrameLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                95958373
+                            ]
+                        },
+                        {
+                            "hashCode": 95958373,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 279,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.LinearLayout[0]",
+                            "element_content": "上市时间-2017年8月-调音台-有-分辨率-3840*2160-类型",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 754,
+                            "height": 1771,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.LinearLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                13742650
+                            ]
+                        },
+                        {
+                            "hashCode": 13742650,
+                            "id": 2131363248,
+                            "index": 0,
+                            "element_level": 280,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.recyclerview.widget.RecyclerView[0]",
+                            "element_content": "上市时间-2017年8月-调音台-有-分辨率-3840*2160-类型",
+                            "sa_id_name": null,
+                            "top": 35,
+                            "left": 46,
+                            "width": 662,
+                            "height": 1736,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.recyclerview.widget.RecyclerView",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": [
+                                7519979,
+                                41955870,
+                                17738495,
+                                194162892,
+                                152805141,
+                                175723050,
+                                53278747,
+                                228593080
+                            ]
+                        },
+                        {
+                            "hashCode": 7519979,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 281,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.LinearLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.LinearLayout[-]",
+                            "element_position": "0",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 662,
+                            "height": 427,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.LinearLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": true,
+                            "subviews": [
+                                197727304
+                            ]
+                        },
+                        {
+                            "hashCode": 197727304,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 282,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.LinearLayout[0]/android.widget.FrameLayout[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.FrameLayout[0]",
+                            "element_position": "0",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 662,
+                            "height": 427,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.FrameLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                8110817
+                            ]
+                        },
+                        {
+                            "hashCode": 8110817,
+                            "id": 2131362614,
+                            "index": 0,
+                            "element_level": 283,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "0",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 662,
+                            "height": 392,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 41955870,
+                            "id": 2131364060,
+                            "index": 0,
+                            "element_level": 284,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[-]",
+                            "element_position": "1",
+                            "element_content": "上市时间",
+                            "sa_id_name": "tv_title",
+                            "top": 427,
+                            "left": 0,
+                            "width": 662,
+                            "height": 104,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 17738495,
+                            "id": 2131364152,
+                            "index": 1,
+                            "element_level": 285,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.LinearLayout[1]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.LinearLayout[-]",
+                            "element_position": "2",
+                            "element_content": "2017年8月",
+                            "sa_id_name": null,
+                            "top": 566,
+                            "left": 0,
+                            "width": 221,
+                            "height": 226,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.LinearLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                142581779,
+                                94640017
+                            ]
+                        },
+                        {
+                            "hashCode": 142581779,
+                            "id": 2131362635,
+                            "index": 0,
+                            "element_level": 286,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.LinearLayout[1]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "2",
+                            "sa_id_name": "iv_image",
+                            "top": 0,
+                            "left": 38,
+                            "width": 144,
+                            "height": 144,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 94640017,
+                            "id": 2131364060,
+                            "index": 0,
+                            "element_level": 287,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.LinearLayout[1]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "2",
+                            "element_content": "2017年8月",
+                            "sa_id_name": "tv_title",
+                            "top": 179,
+                            "left": 25,
+                            "width": 171,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 194162892,
+                            "id": 2131364060,
+                            "index": 1,
+                            "element_level": 288,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/com.google.android.material.textview.MaterialTextView[1]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[-]",
+                            "element_position": "3",
+                            "element_content": "调音台",
+                            "sa_id_name": "tv_title",
+                            "top": 827,
+                            "left": 0,
+                            "width": 662,
+                            "height": 104,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 152805141,
+                            "id": 2131364152,
+                            "index": 2,
+                            "element_level": 289,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.LinearLayout[2]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.LinearLayout[-]",
+                            "element_position": "4",
+                            "element_content": "有",
+                            "sa_id_name": null,
+                            "top": 966,
+                            "left": 0,
+                            "width": 221,
+                            "height": 226,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.LinearLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                251702362,
+                                20080374
+                            ]
+                        },
+                        {
+                            "hashCode": 251702362,
+                            "id": 2131362635,
+                            "index": 0,
+                            "element_level": 290,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.LinearLayout[2]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "4",
+                            "sa_id_name": "iv_image",
+                            "top": 0,
+                            "left": 38,
+                            "width": 144,
+                            "height": 144,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 20080374,
+                            "id": 2131364060,
+                            "index": 0,
+                            "element_level": 291,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.LinearLayout[2]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "4",
+                            "element_content": "有",
+                            "sa_id_name": "tv_title",
+                            "top": 179,
+                            "left": 93,
+                            "width": 35,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 175723050,
+                            "id": 2131364060,
+                            "index": 2,
+                            "element_level": 292,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/com.google.android.material.textview.MaterialTextView[2]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[-]",
+                            "element_position": "5",
+                            "element_content": "分辨率",
+                            "sa_id_name": "tv_title",
+                            "top": 1227,
+                            "left": 0,
+                            "width": 662,
+                            "height": 104,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 53278747,
+                            "id": 2131364152,
+                            "index": 3,
+                            "element_level": 293,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.LinearLayout[3]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.LinearLayout[-]",
+                            "element_position": "6",
+                            "element_content": "3840*2160",
+                            "sa_id_name": null,
+                            "top": 1366,
+                            "left": 0,
+                            "width": 221,
+                            "height": 226,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.LinearLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": [
+                                238284477,
+                                102300407
+                            ]
+                        },
+                        {
+                            "hashCode": 238284477,
+                            "id": 2131362635,
+                            "index": 0,
+                            "element_level": 294,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.LinearLayout[3]/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/androidx.appcompat.widget.AppCompatImageView[0]",
+                            "element_position": "6",
+                            "sa_id_name": "iv_image",
+                            "top": 0,
+                            "left": 38,
+                            "width": 144,
+                            "height": 144,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "androidx.appcompat.widget.AppCompatImageView",
+                                "android.widget.ImageView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 102300407,
+                            "id": 2131364060,
+                            "index": 0,
+                            "element_level": 295,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/android.widget.LinearLayout[3]/com.google.android.material.textview.MaterialTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
+                            "element_position": "6",
+                            "element_content": "3840*2160",
+                            "sa_id_name": "tv_title",
+                            "top": 179,
+                            "left": 19,
+                            "width": 182,
+                            "height": 47,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 228593080,
+                            "id": 2131364060,
+                            "index": 3,
+                            "element_level": 296,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/com.tcl.base.weiget.loadsir.core.LoadLayout[0]/android.widget.LinearLayout[0]/android.widget.LinearLayout[1]/androidx.fragment.app.FragmentContainerView[0]/android.widget.LinearLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/com.google.android.material.textview.MaterialTextView[3]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.google.android.material.textview.MaterialTextView[-]",
+                            "element_position": "7",
+                            "element_content": "类型",
+                            "sa_id_name": "tv_title",
+                            "top": 1627,
+                            "left": 0,
+                            "width": 662,
+                            "height": 104,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.google.android.material.textview.MaterialTextView",
+                                "androidx.appcompat.widget.AppCompatTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": true,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 138673440,
+                            "id": 2131362972,
+                            "index": 0,
+                            "element_level": 297,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
                             "element_path": "/androidx.core.widget.NestedScrollView[0]",
-                            "element_content": "长沙市雨花区欣天琪服装店-浏览店铺-店铺运营-商品管理-我的门店-配送员-推广店铺-订单管理-99+-售后管理-99+-微信提现-操作指南-营销工具-短信营销-优惠券-预售-砍价-秒杀-数据更新时间 2022-03-03 09:00-今日客户分析-访客量-2-浏览量-40-新客量-0-30日客户分析-访客量-31-浏览量-4150-新客量-5-今日商品分析-销售金额-0-利润-0-销量-0-浏览量-0-加购量-0-购买人数-0-30日商品分析-销售金额-271万-利润-173.8万-销量-357-浏览量-0-加购量-0-购买人数-2-今日订单分析-销售金额-0-退款金额-0-支付订单数-0-退款订单数-0-30日订单分析-销售金额-261.4万-退款金额-58381-支付订单数-249-退款订单数-9",
+                            "element_content": "长沙市雨花区欣天琪服装店-浏览店铺-店铺运营-商品管理-我的门店-配送员-推广店铺-订单管理-99+-售后管理-99+-微信提现-操作指南-营销工具-短信营销-优惠券-预售-砍价-秒杀-数据更新时间 2022-03-03 16:00-今日客户分析-访客量-2-浏览量-40-新客量-0-30日客户分析-访客量-31-浏览量-4150-新客量-5-今日商品分析-销售金额-0-利润-0-销量-0-浏览量-0-加购量-0-购买人数-0-30日商品分析-销售金额-271万-利润-173.8万-销量-357-浏览量-0-加购量-0-购买人数-2-今日订单分析-销售金额-0-退款金额-0-支付订单数-0-退款订单数-0-30日订单分析-销售金额-261.4万-退款金额-58381-支付订单数-249-退款订单数-9",
                             "sa_id_name": null,
                             "top": 0,
                             "left": 0,
@@ -8365,19 +9814,19 @@ const mockdata = {
                                 0
                             ],
                             "subviews": [
-                                1976299
+                                103737237
                             ]
                         },
                         {
-                            "hashCode": 1976299,
+                            "hashCode": 103737237,
                             "id": -1,
                             "index": 0,
-                            "element_level": 251,
+                            "element_level": 298,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
                             "element_path": "/androidx.constraintlayout.widget.ConstraintLayout[0]",
-                            "element_content": "长沙市雨花区欣天琪服装店-浏览店铺-店铺运营-商品管理-我的门店-配送员-推广店铺-订单管理-99+-售后管理-99+-微信提现-操作指南-营销工具-短信营销-优惠券-预售-砍价-秒杀-数据更新时间 2022-03-03 09:00-今日客户分析-访客量-2-浏览量-40-新客量-0-30日客户分析-访客量-31-浏览量-4150-新客量-5-今日商品分析-销售金额-0-利润-0-销量-0-浏览量-0-加购量-0-购买人数-0-30日商品分析-销售金额-271万-利润-173.8万-销量-357-浏览量-0-加购量-0-购买人数-2-今日订单分析-销售金额-0-退款金额-0-支付订单数-0-退款订单数-0-30日订单分析-销售金额-261.4万-退款金额-58381-支付订单数-249-退款订单数-9",
+                            "element_content": "长沙市雨花区欣天琪服装店-浏览店铺-店铺运营-商品管理-我的门店-配送员-推广店铺-订单管理-99+-售后管理-99+-微信提现-操作指南-营销工具-短信营销-优惠券-预售-砍价-秒杀-数据更新时间 2022-03-03 16:00-今日客户分析-访客量-2-浏览量-40-新客量-0-30日客户分析-访客量-31-浏览量-4150-新客量-5-今日商品分析-销售金额-0-利润-0-销量-0-浏览量-0-加购量-0-购买人数-0-30日商品分析-销售金额-271万-利润-173.8万-销量-357-浏览量-0-加购量-0-购买人数-2-今日订单分析-销售金额-0-退款金额-0-支付订单数-0-退款订单数-0-30日订单分析-销售金额-261.4万-退款金额-58381-支付订单数-249-退款订单数-9",
                             "sa_id_name": null,
                             "top": 0,
                             "left": 0,
@@ -8396,22 +9845,22 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                81078465,
-                                212661075,
-                                124999782,
-                                99608487,
-                                31765588,
-                                172658685,
-                                72127730,
-                                254367555,
-                                235061696
+                                267736042,
+                                89769106,
+                                201471707,
+                                34227576,
+                                39474257,
+                                231523510,
+                                249783735,
+                                39469348,
+                                102687885
                             ]
                         },
                         {
-                            "hashCode": 81078465,
+                            "hashCode": 267736042,
                             "id": -1,
                             "index": 0,
-                            "element_level": 252,
+                            "element_level": 299,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8435,10 +9884,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 212661075,
+                            "hashCode": 89769106,
                             "id": 2131362609,
                             "index": 0,
-                            "element_level": 253,
+                            "element_level": 300,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8463,10 +9912,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 124999782,
+                            "hashCode": 201471707,
                             "id": 2131363883,
                             "index": 0,
-                            "element_level": 254,
+                            "element_level": 301,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8492,10 +9941,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 99608487,
+                            "hashCode": 34227576,
                             "id": 2131362791,
                             "index": 0,
-                            "element_level": 255,
+                            "element_level": 302,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8520,15 +9969,15 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                146091769,
-                                118165054
+                                114849346,
+                                121546323
                             ]
                         },
                         {
-                            "hashCode": 146091769,
+                            "hashCode": 114849346,
                             "id": -1,
                             "index": 0,
-                            "element_level": 256,
+                            "element_level": 303,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[0]/com.ruffian.library.widget.RFrameLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8552,14 +10001,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                130206024
+                                247869610
                             ]
                         },
                         {
-                            "hashCode": 130206024,
+                            "hashCode": 247869610,
                             "id": -1,
                             "index": 0,
-                            "element_level": 257,
+                            "element_level": 304,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[0]/com.ruffian.library.widget.RFrameLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8584,10 +10033,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 118165054,
+                            "hashCode": 121546323,
                             "id": -1,
                             "index": 0,
-                            "element_level": 258,
+                            "element_level": 305,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RLinearLayout[0]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8613,10 +10062,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 31765588,
+                            "hashCode": 39474257,
                             "id": 2131362801,
                             "index": 1,
-                            "element_level": 259,
+                            "element_level": 306,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8640,16 +10089,16 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                9375,
-                                221395436,
-                                76595637
+                                59526032,
+                                52575369,
+                                251376782
                             ]
                         },
                         {
-                            "hashCode": 9375,
+                            "hashCode": 59526032,
                             "id": 2131364061,
                             "index": 0,
-                            "element_level": 260,
+                            "element_level": 307,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8676,10 +10125,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 221395436,
+                            "hashCode": 52575369,
                             "id": -1,
                             "index": 1,
-                            "element_level": 261,
+                            "element_level": 308,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/android.view.View[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8702,10 +10151,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 76595637,
+                            "hashCode": 251376782,
                             "id": 2131363269,
                             "index": 0,
-                            "element_level": 262,
+                            "element_level": 309,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8729,21 +10178,21 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": false,
                             "subviews": [
-                                217306081,
-                                258340102,
-                                129324999,
-                                64958964,
-                                234409245,
-                                47995794,
-                                10856803,
-                                95910240
+                                80636740,
+                                187339821,
+                                46609534,
+                                88933945,
+                                96628224,
+                                206482295,
+                                180843492,
+                                43253837
                             ]
                         },
                         {
-                            "hashCode": 217306081,
+                            "hashCode": 80636740,
                             "id": -1,
                             "index": 0,
-                            "element_level": 263,
+                            "element_level": 310,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8768,17 +10217,17 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                74245164,
-                                106569241,
-                                165715678,
-                                46102719
+                                145204648,
+                                163161222,
+                                164630855,
+                                113585524
                             ]
                         },
                         {
-                            "hashCode": 74245164,
+                            "hashCode": 145204648,
                             "id": 2131362690,
                             "index": 0,
-                            "element_level": 264,
+                            "element_level": 311,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8804,10 +10253,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 106569241,
+                            "hashCode": 163161222,
                             "id": 2131364086,
                             "index": 0,
-                            "element_level": 265,
+                            "element_level": 312,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8835,10 +10284,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 258340102,
+                            "hashCode": 187339821,
                             "id": -1,
                             "index": 1,
-                            "element_level": 266,
+                            "element_level": 313,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8863,17 +10312,17 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                151898875,
-                                84593548,
-                                166036181,
-                                173263594
+                                104572839,
+                                25551517,
+                                58426130,
+                                259160803
                             ]
                         },
                         {
-                            "hashCode": 151898875,
+                            "hashCode": 104572839,
                             "id": 2131362690,
                             "index": 0,
-                            "element_level": 267,
+                            "element_level": 314,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8899,10 +10348,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 84593548,
+                            "hashCode": 25551517,
                             "id": 2131364086,
                             "index": 0,
-                            "element_level": 268,
+                            "element_level": 315,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8930,10 +10379,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 129324999,
+                            "hashCode": 46609534,
                             "id": -1,
                             "index": 2,
-                            "element_level": 269,
+                            "element_level": 316,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8958,17 +10407,17 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                191102806,
-                                142402011,
-                                73340024,
-                                25720657
+                                60465363,
+                                162121474,
+                                91785235,
+                                259648080
                             ]
                         },
                         {
-                            "hashCode": 191102806,
+                            "hashCode": 60465363,
                             "id": 2131362690,
                             "index": 0,
-                            "element_level": 270,
+                            "element_level": 317,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -8994,10 +10443,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 142402011,
+                            "hashCode": 162121474,
                             "id": 2131364086,
                             "index": 0,
-                            "element_level": 271,
+                            "element_level": 318,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9025,10 +10474,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 64958964,
+                            "hashCode": 88933945,
                             "id": -1,
                             "index": 3,
-                            "element_level": 272,
+                            "element_level": 319,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9053,17 +10502,17 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                20502445,
-                                85699510,
-                                266191031,
-                                112001060
+                                142201102,
+                                103633993,
+                                175198542,
+                                156865135
                             ]
                         },
                         {
-                            "hashCode": 20502445,
+                            "hashCode": 142201102,
                             "id": 2131362690,
                             "index": 0,
-                            "element_level": 273,
+                            "element_level": 320,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9089,10 +10538,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 85699510,
+                            "hashCode": 103633993,
                             "id": 2131364086,
                             "index": 0,
-                            "element_level": 274,
+                            "element_level": 321,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9120,10 +10569,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 234409245,
+                            "hashCode": 96628224,
                             "id": -1,
                             "index": 4,
-                            "element_level": 275,
+                            "element_level": 322,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9148,17 +10597,17 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                91416757,
-                                227293069,
-                                28233026,
-                                218345811
+                                243351237,
+                                110844796,
+                                65924101,
+                                185939034
                             ]
                         },
                         {
-                            "hashCode": 91416757,
+                            "hashCode": 243351237,
                             "id": 2131362690,
                             "index": 0,
-                            "element_level": 276,
+                            "element_level": 323,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9184,10 +10633,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 227293069,
+                            "hashCode": 110844796,
                             "id": 2131364086,
                             "index": 0,
-                            "element_level": 277,
+                            "element_level": 324,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9215,10 +10664,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 28233026,
+                            "hashCode": 65924101,
                             "id": 2131364098,
                             "index": 0,
-                            "element_level": 278,
+                            "element_level": 325,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9245,10 +10694,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 47995794,
+                            "hashCode": 206482295,
                             "id": -1,
                             "index": 5,
-                            "element_level": 279,
+                            "element_level": 326,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[5]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9273,17 +10722,17 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                76061656,
-                                63699600,
-                                261209993,
-                                106986382
+                                171588154,
+                                93775499,
+                                100709224,
+                                258360193
                             ]
                         },
                         {
-                            "hashCode": 76061656,
+                            "hashCode": 171588154,
                             "id": 2131362690,
                             "index": 0,
-                            "element_level": 280,
+                            "element_level": 327,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[5]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9309,10 +10758,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 63699600,
+                            "hashCode": 93775499,
                             "id": 2131364086,
                             "index": 0,
-                            "element_level": 281,
+                            "element_level": 328,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[5]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9340,10 +10789,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 261209993,
+                            "hashCode": 100709224,
                             "id": 2131364098,
                             "index": 0,
-                            "element_level": 282,
+                            "element_level": 329,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[5]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9370,10 +10819,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 10856803,
+                            "hashCode": 180843492,
                             "id": -1,
                             "index": 6,
-                            "element_level": 283,
+                            "element_level": 330,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[6]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9398,17 +10847,17 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                109377431,
-                                177082287,
-                                127807420,
-                                139316037
+                                54782689,
+                                232930342,
+                                51077223,
+                                165781012
                             ]
                         },
                         {
-                            "hashCode": 109377431,
+                            "hashCode": 54782689,
                             "id": 2131362690,
                             "index": 0,
-                            "element_level": 284,
+                            "element_level": 331,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[6]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9434,10 +10883,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 177082287,
+                            "hashCode": 232930342,
                             "id": 2131364086,
                             "index": 0,
-                            "element_level": 285,
+                            "element_level": 332,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[6]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9465,10 +10914,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 95910240,
+                            "hashCode": 43253837,
                             "id": -1,
                             "index": 7,
-                            "element_level": 286,
+                            "element_level": 333,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[7]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9493,17 +10942,17 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                227875234,
-                                158122650,
-                                62257099,
-                                133991336
+                                107181300,
+                                179476157,
+                                187036850,
+                                56859651
                             ]
                         },
                         {
-                            "hashCode": 227875234,
+                            "hashCode": 107181300,
                             "id": 2131362690,
                             "index": 0,
-                            "element_level": 287,
+                            "element_level": 334,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[7]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9529,10 +10978,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 158122650,
+                            "hashCode": 179476157,
                             "id": 2131364086,
                             "index": 0,
-                            "element_level": 288,
+                            "element_level": 335,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[1]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[7]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9560,10 +11009,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 172658685,
+                            "hashCode": 231523510,
                             "id": 2131362788,
                             "index": 2,
-                            "element_level": 289,
+                            "element_level": 336,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9587,16 +11036,16 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                61198410,
-                                105671611,
-                                83822808
+                                100881583,
+                                26382524,
+                                15276101
                             ]
                         },
                         {
-                            "hashCode": 61198410,
+                            "hashCode": 100881583,
                             "id": 2131364062,
                             "index": 0,
-                            "element_level": 290,
+                            "element_level": 337,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9623,10 +11072,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 105671611,
+                            "hashCode": 26382524,
                             "id": -1,
                             "index": 1,
-                            "element_level": 291,
+                            "element_level": 338,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/android.view.View[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9649,10 +11098,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 83822808,
+                            "hashCode": 15276101,
                             "id": 2131363265,
                             "index": 0,
-                            "element_level": 292,
+                            "element_level": 339,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9676,18 +11125,18 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": false,
                             "subviews": [
-                                84203201,
-                                113536614,
-                                69879207,
-                                224574036,
-                                147267069
+                                97968044,
+                                262919285,
+                                241388554,
+                                187604091,
+                                145246872
                             ]
                         },
                         {
-                            "hashCode": 84203201,
+                            "hashCode": 97968044,
                             "id": -1,
                             "index": 0,
-                            "element_level": 293,
+                            "element_level": 340,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9712,17 +11161,17 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                61689360,
-                                110693106,
-                                162239811,
-                                173746112
+                                267449572,
+                                267535089,
+                                32644822,
+                                151029079
                             ]
                         },
                         {
-                            "hashCode": 61689360,
+                            "hashCode": 267449572,
                             "id": 2131362690,
                             "index": 0,
-                            "element_level": 294,
+                            "element_level": 341,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9748,10 +11197,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 110693106,
+                            "hashCode": 267535089,
                             "id": 2131364086,
                             "index": 0,
-                            "element_level": 295,
+                            "element_level": 342,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9779,10 +11228,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 113536614,
+                            "hashCode": 262919285,
                             "id": -1,
                             "index": 1,
-                            "element_level": 296,
+                            "element_level": 343,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9807,17 +11256,17 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                61872431,
-                                225221881,
-                                11068478,
-                                57164447
+                                240718153,
+                                102987844,
+                                72817965,
+                                29971042
                             ]
                         },
                         {
-                            "hashCode": 61872431,
+                            "hashCode": 240718153,
                             "id": 2131362690,
                             "index": 0,
-                            "element_level": 297,
+                            "element_level": 344,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9843,10 +11292,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 225221881,
+                            "hashCode": 102987844,
                             "id": 2131364086,
                             "index": 0,
-                            "element_level": 298,
+                            "element_level": 345,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9874,10 +11323,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 69879207,
+                            "hashCode": 241388554,
                             "id": -1,
                             "index": 2,
-                            "element_level": 299,
+                            "element_level": 346,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9902,17 +11351,17 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                16218650,
-                                229310444,
-                                139530165,
-                                139134538
+                                22854539,
+                                60694515,
+                                16897200,
+                                213212969
                             ]
                         },
                         {
-                            "hashCode": 16218650,
+                            "hashCode": 22854539,
                             "id": 2131362690,
                             "index": 0,
-                            "element_level": 300,
+                            "element_level": 347,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9938,10 +11387,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 229310444,
+                            "hashCode": 60694515,
                             "id": 2131364086,
                             "index": 0,
-                            "element_level": 301,
+                            "element_level": 348,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9969,10 +11418,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 224574036,
+                            "hashCode": 187604091,
                             "id": -1,
                             "index": 3,
-                            "element_level": 302,
+                            "element_level": 349,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -9997,17 +11446,17 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                39490625,
-                                186149307,
-                                188624600,
-                                248508977
+                                170775846,
+                                250491566,
+                                259049551,
+                                203918300
                             ]
                         },
                         {
-                            "hashCode": 39490625,
+                            "hashCode": 170775846,
                             "id": 2131362690,
                             "index": 0,
-                            "element_level": 303,
+                            "element_level": 350,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10033,10 +11482,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 186149307,
+                            "hashCode": 250491566,
                             "id": 2131364086,
                             "index": 0,
-                            "element_level": 304,
+                            "element_level": 351,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[3]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10064,10 +11513,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 147267069,
+                            "hashCode": 145246872,
                             "id": -1,
                             "index": 4,
-                            "element_level": 305,
+                            "element_level": 352,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10092,17 +11541,17 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                20581615,
-                                221986070,
-                                64611991,
-                                131293316
+                                92171083,
+                                26985701,
+                                57592762,
+                                68917867
                             ]
                         },
                         {
-                            "hashCode": 20581615,
+                            "hashCode": 92171083,
                             "id": 2131362690,
                             "index": 0,
-                            "element_level": 306,
+                            "element_level": 353,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10128,10 +11577,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 221986070,
+                            "hashCode": 26985701,
                             "id": 2131364086,
                             "index": 0,
-                            "element_level": 307,
+                            "element_level": 354,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[2]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[4]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10159,15 +11608,15 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 72127730,
+                            "hashCode": 249783735,
                             "id": 2131363801,
                             "index": 0,
-                            "element_level": 308,
+                            "element_level": 355,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
                             "element_path": "/com.google.android.material.textview.MaterialTextView[0]",
-                            "element_content": "数据更新时间 2022-03-03 09:00",
+                            "element_content": "数据更新时间 2022-03-03 16:00",
                             "sa_id_name": null,
                             "top": 1560,
                             "left": 46,
@@ -10189,10 +11638,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 254367555,
+                            "hashCode": 39469348,
                             "id": 2131362687,
                             "index": 1,
-                            "element_level": 309,
+                            "element_level": 356,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10217,10 +11666,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 235061696,
+                            "hashCode": 102687885,
                             "id": 2131362770,
                             "index": 3,
-                            "element_level": 310,
+                            "element_level": 357,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10244,19 +11693,19 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                219938133,
-                                14218090,
-                                75898971,
-                                207204600,
-                                233576913,
-                                101375030
+                                55958035,
+                                28431440,
+                                222819913,
+                                170150734,
+                                213517423,
+                                90695036
                             ]
                         },
                         {
-                            "hashCode": 219938133,
+                            "hashCode": 55958035,
                             "id": -1,
                             "index": 0,
-                            "element_level": 311,
+                            "element_level": 358,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10280,19 +11729,19 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                159147831,
-                                217375908,
-                                214401549,
-                                228623810,
-                                203833299,
-                                65906448
+                                252751365,
+                                201182810,
+                                59537547,
+                                101440872,
+                                116598145,
+                                230323750
                             ]
                         },
                         {
-                            "hashCode": 159147831,
+                            "hashCode": 252751365,
                             "id": 2131361995,
                             "index": 0,
-                            "element_level": 312,
+                            "element_level": 359,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.view.View[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10315,10 +11764,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 217375908,
+                            "hashCode": 201182810,
                             "id": 2131364036,
                             "index": 0,
-                            "element_level": 313,
+                            "element_level": 360,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10345,10 +11794,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 214401549,
+                            "hashCode": 59537547,
                             "id": 2131364037,
                             "index": 0,
-                            "element_level": 314,
+                            "element_level": 361,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10373,10 +11822,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 228623810,
+                            "hashCode": 101440872,
                             "id": 2131362686,
                             "index": 1,
-                            "element_level": 315,
+                            "element_level": 362,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10401,10 +11850,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 203833299,
+                            "hashCode": 116598145,
                             "id": 2131364183,
                             "index": 4,
-                            "element_level": 316,
+                            "element_level": 363,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.view.View[4]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10427,10 +11876,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 65906448,
+                            "hashCode": 230323750,
                             "id": 2131363276,
                             "index": 0,
-                            "element_level": 317,
+                            "element_level": 364,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10454,16 +11903,16 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": false,
                             "subviews": [
-                                192360969,
-                                250952718,
-                                126551599
+                                264770151,
+                                7694356,
+                                187406525
                             ]
                         },
                         {
-                            "hashCode": 192360969,
+                            "hashCode": 264770151,
                             "id": 2131362581,
                             "index": 0,
-                            "element_level": 318,
+                            "element_level": 365,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10488,15 +11937,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": true,
                             "subviews": [
-                                158213180,
-                                89646533
+                                155700914,
+                                70872579
                             ]
                         },
                         {
-                            "hashCode": 158213180,
+                            "hashCode": 155700914,
                             "id": 2131364060,
                             "index": 0,
-                            "element_level": 319,
+                            "element_level": 366,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10524,10 +11973,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 89646533,
+                            "hashCode": 70872579,
                             "id": 2131363736,
                             "index": 1,
-                            "element_level": 320,
+                            "element_level": 367,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.google.android.material.textview.MaterialTextView[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10555,10 +12004,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 250952718,
+                            "hashCode": 7694356,
                             "id": 2131362581,
                             "index": 1,
-                            "element_level": 321,
+                            "element_level": 368,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10583,15 +12032,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": true,
                             "subviews": [
-                                164432666,
-                                97244747
+                                88797568,
+                                259916729
                             ]
                         },
                         {
-                            "hashCode": 164432666,
+                            "hashCode": 88797568,
                             "id": 2131364060,
                             "index": 0,
-                            "element_level": 322,
+                            "element_level": 369,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10619,10 +12068,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 97244747,
+                            "hashCode": 259916729,
                             "id": 2131363736,
                             "index": 1,
-                            "element_level": 323,
+                            "element_level": 370,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[1]/com.google.android.material.textview.MaterialTextView[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10650,10 +12099,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 126551599,
+                            "hashCode": 187406525,
                             "id": 2131362581,
                             "index": 2,
-                            "element_level": 324,
+                            "element_level": 371,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10678,15 +12127,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": true,
                             "subviews": [
-                                202852392,
-                                81140033
+                                132129790,
+                                165341023
                             ]
                         },
                         {
-                            "hashCode": 202852392,
+                            "hashCode": 132129790,
                             "id": 2131364060,
                             "index": 0,
-                            "element_level": 325,
+                            "element_level": 372,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10714,10 +12163,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 81140033,
+                            "hashCode": 165341023,
                             "id": 2131363736,
                             "index": 1,
-                            "element_level": 326,
+                            "element_level": 373,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.core.widget.NestedScrollView[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/android.widget.LinearLayout[3]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.recyclerview.widget.RecyclerView[0]/androidx.constraintlayout.widget.ConstraintLayout[2]/com.google.android.material.textview.MaterialTextView[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10745,10 +12194,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 109084781,
+                            "hashCode": 42961352,
                             "id": -1,
                             "index": 0,
-                            "element_level": 327,
+                            "element_level": 374,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10772,10 +12221,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 220599458,
+                            "hashCode": 197708385,
                             "id": 2131362610,
                             "index": 0,
-                            "element_level": 328,
+                            "element_level": 375,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10800,10 +12249,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 181163315,
+                            "hashCode": 170781062,
                             "id": 2131363884,
                             "index": 0,
-                            "element_level": 329,
+                            "element_level": 376,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/androidx.appcompat.widget.AppCompatTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10829,10 +12278,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 57147632,
+                            "hashCode": 106394183,
                             "id": -1,
                             "index": 0,
-                            "element_level": 330,
+                            "element_level": 377,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RRelativeLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10857,15 +12306,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                221361769,
-                                32823534
+                                32995956,
+                                124169117
                             ]
                         },
                         {
-                            "hashCode": 221361769,
+                            "hashCode": 32995956,
                             "id": 2131362963,
                             "index": 0,
-                            "element_level": 331,
+                            "element_level": 378,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RRelativeLayout[0]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10914,10 +12363,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 32823534,
+                            "hashCode": 124169117,
                             "id": -1,
                             "index": 0,
-                            "element_level": 332,
+                            "element_level": 379,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/androidx.constraintlayout.widget.ConstraintLayout[0]/com.ruffian.library.widget.RRelativeLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -10968,10 +12417,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 91033999,
+                            "hashCode": 124721170,
                             "id": 2131363644,
                             "index": 0,
-                            "element_level": 333,
+                            "element_level": 380,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/androidx.fragment.app.FragmentContainerView[0]/android.widget.RelativeLayout[0]/android.widget.RelativeLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11022,10 +12471,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 106632735,
+                            "hashCode": 136452410,
                             "id": 2131362940,
                             "index": 0,
-                            "element_level": 334,
+                            "element_level": 381,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11050,14 +12499,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                47223641
+                                16522058
                             ]
                         },
                         {
-                            "hashCode": 47223641,
+                            "hashCode": 16522058,
                             "id": -1,
                             "index": 0,
-                            "element_level": 335,
+                            "element_level": 382,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11081,18 +12530,18 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": false,
                             "subviews": [
-                                73273343,
-                                52867532,
-                                23989269,
-                                13089578,
-                                210611483
+                                14965435,
+                                209832920,
+                                7326513,
+                                141074966,
+                                150202263
                             ]
                         },
                         {
-                            "hashCode": 73273343,
+                            "hashCode": 14965435,
                             "id": 2131362948,
                             "index": 0,
-                            "element_level": 336,
+                            "element_level": 383,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11117,15 +12566,15 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                87053457,
-                                142499830
+                                104058244,
+                                80013677
                             ]
                         },
                         {
-                            "hashCode": 87053457,
+                            "hashCode": 104058244,
                             "id": 2131362488,
                             "index": 0,
-                            "element_level": 337,
+                            "element_level": 384,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[0]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11150,10 +12599,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 142499830,
+                            "hashCode": 80013677,
                             "id": 2131362703,
                             "index": 0,
-                            "element_level": 338,
+                            "element_level": 385,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[0]/com.google.android.material.internal.BaselineLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11177,15 +12626,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                186084964,
-                                32811213
+                                199376368,
+                                97759081
                             ]
                         },
                         {
-                            "hashCode": 186084964,
+                            "hashCode": 199376368,
                             "id": 2131363368,
                             "index": 0,
-                            "element_level": 339,
+                            "element_level": 386,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[0]/com.google.android.material.internal.BaselineLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11212,10 +12661,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 52867532,
+                            "hashCode": 209832920,
                             "id": 2131362946,
                             "index": 1,
-                            "element_level": 340,
+                            "element_level": 387,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11240,15 +12689,15 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                17763536,
-                                36701385
+                                33556445,
+                                240574290
                             ]
                         },
                         {
-                            "hashCode": 17763536,
+                            "hashCode": 33556445,
                             "id": 2131362488,
                             "index": 0,
-                            "element_level": 341,
+                            "element_level": 388,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[1]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11273,10 +12722,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 36701385,
+                            "hashCode": 240574290,
                             "id": 2131362703,
                             "index": 0,
-                            "element_level": 342,
+                            "element_level": 389,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[1]/com.google.android.material.internal.BaselineLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11300,15 +12749,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                207452110,
-                                94435055
+                                264166783,
+                                184234316
                             ]
                         },
                         {
-                            "hashCode": 207452110,
+                            "hashCode": 264166783,
                             "id": 2131363368,
                             "index": 0,
-                            "element_level": 343,
+                            "element_level": 390,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[1]/com.google.android.material.internal.BaselineLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11335,10 +12784,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 23989269,
+                            "hashCode": 7326513,
                             "id": 2131362945,
                             "index": 2,
-                            "element_level": 344,
+                            "element_level": 391,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[2]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11363,15 +12812,15 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                211822076,
-                                145433733
+                                103724561,
+                                260236150
                             ]
                         },
                         {
-                            "hashCode": 211822076,
+                            "hashCode": 103724561,
                             "id": 2131362488,
                             "index": 0,
-                            "element_level": 345,
+                            "element_level": 392,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[2]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11396,10 +12845,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 145433733,
+                            "hashCode": 260236150,
                             "id": 2131362703,
                             "index": 0,
-                            "element_level": 346,
+                            "element_level": 393,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[2]/com.google.android.material.internal.BaselineLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11423,15 +12872,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                165495514,
-                                204477195
+                                238527053,
+                                95535362
                             ]
                         },
                         {
-                            "hashCode": 204477195,
+                            "hashCode": 95535362,
                             "id": 2131362705,
                             "index": 1,
-                            "element_level": 347,
+                            "element_level": 394,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[2]/com.google.android.material.internal.BaselineLayout[0]/com.google.android.material.textview.MaterialTextView[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11458,10 +12907,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 13089578,
+                            "hashCode": 141074966,
                             "id": 2131362952,
                             "index": 3,
-                            "element_level": 348,
+                            "element_level": 395,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11486,28 +12935,28 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                197633512,
-                                33457153,
-                                102088697,
-                                190237502,
-                                97885599,
-                                167034604,
-                                219145180,
-                                257506533,
-                                128639930,
-                                16896619,
-                                94724552,
-                                65389153,
-                                170081118,
-                                85504355,
-                                115250304
+                                252312083,
+                                253981776,
+                                90773065,
+                                134146894,
+                                261104751,
+                                230985380,
+                                51462082,
+                                161280531,
+                                122096720,
+                                81841737,
+                                13715697,
+                                146517206,
+                                120432044,
+                                115499867,
+                                159106712
                             ]
                         },
                         {
-                            "hashCode": 197633512,
+                            "hashCode": 252312083,
                             "id": 2131362488,
                             "index": 0,
-                            "element_level": 349,
+                            "element_level": 396,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11532,10 +12981,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 33457153,
+                            "hashCode": 253981776,
                             "id": 2131362703,
                             "index": 0,
-                            "element_level": 350,
+                            "element_level": 397,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/com.google.android.material.internal.BaselineLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11559,15 +13008,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                257733286,
-                                189453543
+                                139691388,
+                                136564229
                             ]
                         },
                         {
-                            "hashCode": 257733286,
+                            "hashCode": 139691388,
                             "id": 2131363368,
                             "index": 0,
-                            "element_level": 351,
+                            "element_level": 398,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/com.google.android.material.internal.BaselineLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11594,10 +13043,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 102088697,
+                            "hashCode": 90773065,
                             "id": -1,
                             "index": 0,
-                            "element_level": 352,
+                            "element_level": 399,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11620,14 +13069,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                99181237
+                                216165978
                             ]
                         },
                         {
-                            "hashCode": 99181237,
+                            "hashCode": 216165978,
                             "id": -1,
                             "index": 0,
-                            "element_level": 353,
+                            "element_level": 400,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[0]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11652,10 +13101,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 190237502,
+                            "hashCode": 134146894,
                             "id": -1,
                             "index": 1,
-                            "element_level": 354,
+                            "element_level": 401,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11678,14 +13127,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                225467722
+                                228890763
                             ]
                         },
                         {
-                            "hashCode": 225467722,
+                            "hashCode": 228890763,
                             "id": -1,
                             "index": 0,
-                            "element_level": 355,
+                            "element_level": 402,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[1]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11710,10 +13159,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 97885599,
+                            "hashCode": 261104751,
                             "id": -1,
                             "index": 2,
-                            "element_level": 356,
+                            "element_level": 403,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[2]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11736,14 +13185,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                109081787
+                                202472808
                             ]
                         },
                         {
-                            "hashCode": 109081787,
+                            "hashCode": 202472808,
                             "id": -1,
                             "index": 0,
-                            "element_level": 357,
+                            "element_level": 404,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[2]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11768,10 +13217,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 167034604,
+                            "hashCode": 230985380,
                             "id": -1,
                             "index": 3,
-                            "element_level": 358,
+                            "element_level": 405,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[3]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11794,14 +13243,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                199548376
+                                117367821
                             ]
                         },
                         {
-                            "hashCode": 199548376,
+                            "hashCode": 117367821,
                             "id": -1,
                             "index": 0,
-                            "element_level": 359,
+                            "element_level": 406,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[3]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11826,10 +13275,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 219145180,
+                            "hashCode": 51462082,
                             "id": -1,
                             "index": 4,
-                            "element_level": 360,
+                            "element_level": 407,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[4]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11852,14 +13301,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                34832774
+                                30503379
                             ]
                         },
                         {
-                            "hashCode": 34832774,
+                            "hashCode": 30503379,
                             "id": -1,
                             "index": 0,
-                            "element_level": 361,
+                            "element_level": 408,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[4]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11884,10 +13333,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 257506533,
+                            "hashCode": 161280531,
                             "id": -1,
                             "index": 5,
-                            "element_level": 362,
+                            "element_level": 409,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[5]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11910,14 +13359,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                210948724
+                                134759246
                             ]
                         },
                         {
-                            "hashCode": 210948724,
+                            "hashCode": 134759246,
                             "id": -1,
                             "index": 0,
-                            "element_level": 363,
+                            "element_level": 410,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[5]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11942,10 +13391,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 128639930,
+                            "hashCode": 122096720,
                             "id": -1,
                             "index": 6,
-                            "element_level": 364,
+                            "element_level": 411,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[6]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -11968,14 +13417,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                5972893
+                                207264879
                             ]
                         },
                         {
-                            "hashCode": 5972893,
+                            "hashCode": 207264879,
                             "id": -1,
                             "index": 0,
-                            "element_level": 365,
+                            "element_level": 412,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[6]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12000,10 +13449,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 16896619,
+                            "hashCode": 81841737,
                             "id": -1,
                             "index": 7,
-                            "element_level": 366,
+                            "element_level": 413,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[7]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12026,14 +13475,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                68562962
+                                186162556
                             ]
                         },
                         {
-                            "hashCode": 68562962,
+                            "hashCode": 186162556,
                             "id": -1,
                             "index": 0,
-                            "element_level": 367,
+                            "element_level": 414,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[7]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12058,10 +13507,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 94724552,
+                            "hashCode": 13715697,
                             "id": -1,
                             "index": 8,
-                            "element_level": 368,
+                            "element_level": 415,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[8]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12084,14 +13533,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                271331
+                                169212759
                             ]
                         },
                         {
-                            "hashCode": 271331,
+                            "hashCode": 169212759,
                             "id": -1,
                             "index": 0,
-                            "element_level": 369,
+                            "element_level": 416,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[8]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12116,10 +13565,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 65389153,
+                            "hashCode": 146517206,
                             "id": -1,
                             "index": 9,
-                            "element_level": 370,
+                            "element_level": 417,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[9]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12142,14 +13591,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                155492832
+                                171619908
                             ]
                         },
                         {
-                            "hashCode": 155492832,
+                            "hashCode": 171619908,
                             "id": -1,
                             "index": 0,
-                            "element_level": 371,
+                            "element_level": 418,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[9]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12174,10 +13623,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 170081118,
+                            "hashCode": 120432044,
                             "id": -1,
                             "index": 10,
-                            "element_level": 372,
+                            "element_level": 419,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[10]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12200,14 +13649,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                97196863
+                                99754613
                             ]
                         },
                         {
-                            "hashCode": 97196863,
+                            "hashCode": 99754613,
                             "id": -1,
                             "index": 0,
-                            "element_level": 373,
+                            "element_level": 420,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[10]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12232,10 +13681,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 85504355,
+                            "hashCode": 115499867,
                             "id": -1,
                             "index": 11,
-                            "element_level": 374,
+                            "element_level": 421,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[11]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12258,14 +13707,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                207119897
+                                202127352
                             ]
                         },
                         {
-                            "hashCode": 207119897,
+                            "hashCode": 202127352,
                             "id": -1,
                             "index": 0,
-                            "element_level": 375,
+                            "element_level": 422,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[11]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12290,10 +13739,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 115250304,
+                            "hashCode": 159106712,
                             "id": -1,
                             "index": 12,
-                            "element_level": 376,
+                            "element_level": 423,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[12]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12316,14 +13765,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                151284409
+                                160903511
                             ]
                         },
                         {
-                            "hashCode": 151284409,
+                            "hashCode": 160903511,
                             "id": -1,
                             "index": 0,
-                            "element_level": 377,
+                            "element_level": 424,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[3]/android.widget.FrameLayout[12]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12348,10 +13797,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 210611483,
+                            "hashCode": 150202263,
                             "id": 2131362950,
                             "index": 4,
-                            "element_level": 378,
+                            "element_level": 425,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[4]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12376,16 +13825,18 @@ const mockdata = {
                             "importantForAccessibility": true,
                             "clickable": true,
                             "subviews": [
-                                224737428,
-                                30302013,
-                                152728881
+                                236471681,
+                                139007526,
+                                54669927,
+                                20252692,
+                                56559109
                             ]
                         },
                         {
-                            "hashCode": 224737428,
+                            "hashCode": 236471681,
                             "id": 2131362488,
                             "index": 0,
-                            "element_level": 379,
+                            "element_level": 426,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[4]/androidx.appcompat.widget.AppCompatImageView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12410,10 +13861,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 30302013,
+                            "hashCode": 139007526,
                             "id": 2131362703,
                             "index": 0,
-                            "element_level": 380,
+                            "element_level": 427,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[4]/com.google.android.material.internal.BaselineLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12437,15 +13888,15 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                202462002,
-                                90560643
+                                260225213,
+                                237006514
                             ]
                         },
                         {
-                            "hashCode": 202462002,
+                            "hashCode": 260225213,
                             "id": 2131363368,
                             "index": 0,
-                            "element_level": 381,
+                            "element_level": 428,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[4]/com.google.android.material.internal.BaselineLayout[0]/com.google.android.material.textview.MaterialTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12472,10 +13923,10 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 152728881,
+                            "hashCode": 54669927,
                             "id": -1,
                             "index": 0,
-                            "element_level": 382,
+                            "element_level": 429,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[4]/android.widget.FrameLayout[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12498,14 +13949,14 @@ const mockdata = {
                             "importantForAccessibility": false,
                             "clickable": false,
                             "subviews": [
-                                81724438
+                                87395843
                             ]
                         },
                         {
-                            "hashCode": 81724438,
+                            "hashCode": 87395843,
                             "id": -1,
                             "index": 0,
-                            "element_level": 383,
+                            "element_level": 430,
                             "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[4]/android.widget.FrameLayout[0]/com.ruffian.library.widget.RTextView[0]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12530,10 +13981,126 @@ const mockdata = {
                             "subviews": []
                         },
                         {
-                            "hashCode": 16887782,
+                            "hashCode": 20252692,
+                            "id": -1,
+                            "index": 1,
+                            "element_level": 431,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[4]/android.widget.FrameLayout[1]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.FrameLayout[1]",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 216,
+                            "height": 161,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.FrameLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                40145280
+                            ]
+                        },
+                        {
+                            "hashCode": 40145280,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 432,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[4]/android.widget.FrameLayout[1]/com.ruffian.library.widget.RTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.ruffian.library.widget.RTextView[0]",
+                            "sa_id_name": null,
+                            "top": 14,
+                            "left": 127,
+                            "width": 17,
+                            "height": 17,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.ruffian.library.widget.RTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 56559109,
+                            "id": -1,
+                            "index": 2,
+                            "element_level": 433,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[4]/android.widget.FrameLayout[2]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/android.widget.FrameLayout[2]",
+                            "sa_id_name": null,
+                            "top": 0,
+                            "left": 0,
+                            "width": 216,
+                            "height": 161,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "android.widget.FrameLayout",
+                                "android.view.ViewGroup",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": false,
+                            "clickable": false,
+                            "subviews": [
+                                2704986
+                            ]
+                        },
+                        {
+                            "hashCode": 2704986,
+                            "id": -1,
+                            "index": 0,
+                            "element_level": 434,
+                            "element_selector": "android.widget.LinearLayout[0]/android.widget.FrameLayout[0]/androidx.appcompat.widget.FitWindowsLinearLayout[0]/androidx.appcompat.widget.ContentFrameLayout[0]/androidx.appcompat.widget.LinearLayoutCompat[0]/com.google.android.material.bottomnavigation.BottomNavigationView[0]/com.google.android.material.bottomnavigation.BottomNavigationMenuView[0]/com.google.android.material.bottomnavigation.BottomNavigationItemView[4]/android.widget.FrameLayout[2]/com.ruffian.library.widget.RTextView[0]",
+                            "screen_name": "com.tcl.tsales_plus.main.MainActivity",
+                            "title": "T销客",
+                            "element_path": "/com.ruffian.library.widget.RTextView[0]",
+                            "sa_id_name": null,
+                            "top": 14,
+                            "left": 127,
+                            "width": 17,
+                            "height": 17,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "visibility": 0,
+                            "translationX": 0,
+                            "translationY": 0,
+                            "classes": [
+                                "com.ruffian.library.widget.RTextView",
+                                "android.widget.TextView",
+                                "android.view.View"
+                            ],
+                            "importantForAccessibility": true,
+                            "clickable": false,
+                            "subviews": []
+                        },
+                        {
+                            "hashCode": 46593141,
                             "id": 16908336,
                             "index": 1,
-                            "element_level": 384,
+                            "element_level": 435,
                             "element_selector": "android.view.View[1]",
                             "screen_name": "com.tcl.tsales_plus.main.MainActivity",
                             "title": "T销客",
@@ -12557,16 +14124,16 @@ const mockdata = {
                         }
                     ]
                 },
-                "image_hash": "A059983B4B46314ED76D7AC41D980952",
-                "screenshot": "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"
+                "image_hash": "8C50E054D3B25BCE50BD8437C9AB898B",
+                "screenshot": "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"
             }
         ],
-        "snapshot_time_millis": 1937
+        "snapshot_time_millis": 2187
     },
     "screen_name": "com.tcl.tsales_plus.main.MainActivity",
     "page_name": "com.tcl.tsales_plus.main.MainActivity",
     "title": "T销客",
     "is_webview": false,
     "need_refresh": true,
-    "image_hash_update_time": 1646271034538
+    "image_hash_update_time": 1646295949410
 }
