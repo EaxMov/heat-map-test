@@ -1,25 +1,37 @@
 class AppClick {
-  screen = null
-  list = []
-  objectsHash = {}
-  image_hash = null
-  canvas = null
-  scale = 1
-  vnode = {}
-  rootHashCode = null
+  heatmapInstance = null //热力图实例
+  screen = null // dom容器
+  list = [] // 数据列表
+  objectsHash = {} // 数据转化为map对象
+  canvas = null // 背景图片容器
+  scale = 1 // 缩放
+  vnode = {} // 需要渲染的节点
+  rootHashCode = null // 根节点hash值
+  onload = () => {}
   // 获取容器对象
   constructor(screen) {
+    this._hrefLinkCss()
+    this._loadScript('./heatmap.min.js',() => {
+      this.initHeatMap()
+      this.onload()
+    })
     this.screen = screen
-    this._hrefLink()
   }
   // 初始化数据
   init(data) {
-    const { image_hash, scale, screenshot, serialized_objects } = data.gzip_payload.activities[0]
+    const { scale, screenshot, serialized_objects } = data.gzip_payload.activities[0]
     this.rootHashCode = serialized_objects.rootObject
     this.scale = scale
     this.renderScreen(screenshot)
     this.renderTag(serialized_objects.objects)
-    this.image_hash = image_hash
+  }
+  // 初始化热力图
+  initHeatMap() {
+    this.heatmapInstance = h337.create({
+      container: this.screen,
+      radius: 10, // [0,+∞)
+      opacity: 0.8
+    })
   }
   // 渲染屏幕图
   renderScreen(screenshot) {
@@ -48,6 +60,7 @@ class AppClick {
   // 渲染标签
   createTags(nodeList) {
     const renderVnode = []
+    const renderHeatMap = []
     nodeList.forEach((item) => {
       if (this.vnode[item.hashCode]) return
       const div = document.createElement('div')
@@ -59,8 +72,10 @@ class AppClick {
       div.setAttribute('class', 'app-click-render-ghost-rect')
       this.vnode[item.hashCode] = div
       renderVnode.push(div)
+      renderHeatMap.push(item)
     })
     this.screen.append(...renderVnode)
+    this.renderHeatMap(renderHeatMap)
   }
   // 清空没用的标签
   clearNode(nodeList) {
@@ -73,13 +88,25 @@ class AppClick {
       }
     }
   }
-  _hrefLink() {
-    document.write('<link rel="stylesheet" href="./style.css">')
+  // 渲染热力图
+  renderHeatMap(list) {
+    const points = []
+    list.forEach((item) => {
+      points.push({
+        x: item.translationX || item._left * 0.3333334,
+        y: item.translationY || item._top * 0.3333334,
+        value: item.visibility
+      })
+    })
+    this.heatmapInstance.setData({
+      max: 100,
+      data: points
+    })
   }
   // 所有hashCode对照表
   _getHashCodeRelative(list) {
     this.objectsHash = []
-    const needCreadNode = []
+    const needCreateNode = []
     list.forEach((item) => {
       item.subviews.forEach((hash) => {
         this.objectsHash[hash] = item
@@ -97,11 +124,11 @@ class AppClick {
           root.hashCode != item.hashCode &&
           root.hashCode == this.rootHashCode
         ) {
-          needCreadNode.push(item)
+          needCreateNode.push(item)
         }
       }
     })
-    return needCreadNode
+    return needCreateNode
   }
   // 计算标签
   _filterRect(hashCode, rect) {
@@ -115,4 +142,28 @@ class AppClick {
     rect.width = rect.width - rect.scrollX
     return this.list.find((item) => item.hashCode == hashCode)
   }
+   _hrefLinkCss() {
+    document.write('<link rel="stylesheet" href="./style.css">')
+  }
+  _loadScript(url, callback) {
+    const script = document.createElement("script");
+    script.type = "text/javascript";
+    if(typeof(callback) != "undefined"){
+      if (script.readyState) {
+        script.onreadystatechange = function () {
+          if (script.readyState == "loaded" || script.readyState == "complete") {
+          script.onreadystatechange = null;
+          callback();
+          }
+        };
+      } else {
+        script.onload = function () {
+          callback();
+        };
+      }
+    }
+      script.src = url;
+      document.body.appendChild(script);
+    }
+
 }
